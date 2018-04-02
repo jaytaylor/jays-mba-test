@@ -1,0 +1,2602 @@
+[
+    {
+        "ID": 16702891,
+        "Title": "Building my own 64GB memory card with a $6 eMMC chip (2016)",
+        "URL": "https://ripitapart.com/2016/10/28/emmc-adventures-episode-1-building-my-own-64gb-memory-card-with-a-6-emmc-chip/",
+        "Points": 169,
+        "Comments": 50,
+        "CommentsURL": "https://news.ycombinator.com/item?id=16702891",
+        "Submitter": "nfriedly",
+        "Timestamp": "2018-03-28T21:52:49.427625598-07:00"
+    },
+    {
+        "ID": 16702684,
+        "Title": "OpenBazaar 2.0, powered by IPFS",
+        "URL": "https://www.openbazaar.org/blog/openbazaar-2-0-live/",
+        "Points": 511,
+        "Comments": 234,
+        "CommentsURL": "https://news.ycombinator.com/item?id=16702684",
+        "Submitter": "zapita",
+        "Timestamp": "2018-03-28T21:52:49.427625598-07:00"
+    },
+    {
+        "ID": 16689108,
+        "Title": "Fast, Safe, and Complete(ish) Web Service in Rust",
+        "URL": "https://brandur.org/rust-web",
+        "Points": 358,
+        "Comments": 122,
+        "CommentsURL": "https://news.ycombinator.com/item?id=16689108",
+        "Submitter": "henridf",
+        "Timestamp": "2018-03-27T21:52:49.427625598-07:00"
+    },
+    {
+        "ID": 16659410,
+        "Title": "100 days with Rust: a series of brick walls",
+        "URL": "https://brandur.org/fragments/rust-brick-walls",
+        "Points": 281,
+        "Comments": 311,
+        "CommentsURL": "https://news.ycombinator.com/item?id=16659410",
+        "Submitter": "another",
+        "Timestamp": "2018-03-23T21:52:49.427625598-07:00"
+    },
+    {
+        "ID": 16685452,
+        "Title": "I usually run 'w' first when troubleshooting unknown machines",
+        "URL": "https://rachelbythebay.com/w/2018/03/26/w/",
+        "Points": 680,
+        "Comments": 241,
+        "CommentsURL": "https://news.ycombinator.com/item?id=16685452",
+        "Submitter": "weinzierl",
+        "Timestamp": "2018-03-27T21:52:49.427625598-07:00"
+    },
+    {
+        "ID": 16668254,
+        "Title": "Fred's ImageMagick Scripts",
+        "URL": "http://www.fmwconcepts.com/imagemagick/index.php",
+        "Points": 1146,
+        "Comments": 100,
+        "CommentsURL": "https://news.ycombinator.com/item?id=16668254",
+        "Submitter": "primogen",
+        "Timestamp": "2018-03-24T21:52:49.427625598-07:00"
+    },
+    {
+        "ID": 14644441,
+        "Title": "Show HN: Tesoro – Personal internet archive",
+        "URL": "https://tesoro.io",
+        "Points": 174,
+        "Comments": 100,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14644441",
+        "Submitter": "agamble",
+        "Timestamp": "2017-07-05T21:52:49.427625598-07:00"
+    },
+    {
+        "ID": 16598351,
+        "Title": "Interactive map of Linux kernel",
+        "URL": "http://www.makelinux.net/kernel_map/",
+        "Points": 397,
+        "Comments": 44,
+        "CommentsURL": "https://news.ycombinator.com/item?id=16598351",
+        "Submitter": "mayankkaizen",
+        "Timestamp": "2018-03-15T21:52:49.427625598-07:00"
+    },
+    {
+        "ID": 16590582,
+        "Title": "Memoirs of an Ass",
+        "URL": "https://www.theparisreview.org/blog/2018/02/28/memoirs-of-an-ass/",
+        "Points": 165,
+        "Comments": 24,
+        "CommentsURL": "https://news.ycombinator.com/item?id=16590582",
+        "Submitter": "diodorus",
+        "Timestamp": "2018-03-15T21:52:49.427625598-07:00"
+    },
+    {
+        "ID": 16594515,
+        "Title": "Show HN: Fossa-cli – Fast and reliable dependency analysis for any codebase",
+        "URL": "https://github.com/fossas/fossa-cli?top",
+        "Points": 104,
+        "Comments": 29,
+        "CommentsURL": "https://news.ycombinator.com/item?id=16594515",
+        "Submitter": "XiZhao",
+        "Timestamp": "2018-03-15T21:52:49.427625598-07:00"
+    },
+    {
+        "ID": 16559004,
+        "Title": "Literate Devops with Emacs Org-Mode (2014)",
+        "URL": "http://howardism.org/Technical/Emacs/literate-devops.html",
+        "Points": 213,
+        "Comments": 80,
+        "CommentsURL": "https://news.ycombinator.com/item?id=16559004",
+        "Submitter": "tmstieff",
+        "Timestamp": "2018-03-10T20:52:49.427625598-08:00"
+    },
+    {
+        "ID": 16516235,
+        "Title": "Nerd Sniped by BINFMT_MISC",
+        "URL": "https://blog.jessfraz.com/post/nerd-sniped-by-binfmt_misc/",
+        "Points": 174,
+        "Comments": 32,
+        "CommentsURL": "https://news.ycombinator.com/item?id=16516235",
+        "Submitter": "kingori",
+        "Timestamp": "2018-03-04T20:52:49.427625598-08:00"
+    },
+    {
+        "ID": 16481112,
+        "Title": "Dtube – A decentralized video platform using STEEM and IPFS",
+        "URL": "https://d.tube/",
+        "Points": 558,
+        "Comments": 192,
+        "CommentsURL": "https://news.ycombinator.com/item?id=16481112",
+        "Submitter": "WhiteRiceWill",
+        "Timestamp": "2018-02-28T20:52:49.427625598-08:00"
+    },
+    {
+        "ID": 16461595,
+        "Title": "ASCIIToSVG: Convert ASCII Diagrams to Beautiful SVGs",
+        "URL": "https://github.com/dhobsd/asciitosvg#asciitosvg",
+        "Points": 118,
+        "Comments": 22,
+        "CommentsURL": "https://news.ycombinator.com/item?id=16461595",
+        "Submitter": "ingve",
+        "Timestamp": "2018-02-25T20:52:49.427625598-08:00"
+    },
+    {
+        "ID": 16430274,
+        "Title": "Some Code I Deleted",
+        "URL": "https://blog.afoolishmanifesto.com/posts/some-code-i-deleted/",
+        "Points": 91,
+        "Comments": 21,
+        "CommentsURL": "https://news.ycombinator.com/item?id=16430274",
+        "Submitter": "rhema",
+        "Timestamp": "2018-02-21T20:52:49.427625598-08:00"
+    },
+    {
+        "ID": 16428736,
+        "Title": "NLP concepts with spaCy tutorial",
+        "URL": "https://gist.github.com/aparrish/f21f6abbf2367e8eb23438558207e1c3",
+        "Points": 153,
+        "Comments": 22,
+        "CommentsURL": "https://news.ycombinator.com/item?id=16428736",
+        "Submitter": "jxub",
+        "Timestamp": "2018-02-21T20:52:49.427625598-08:00"
+    },
+    {
+        "ID": 16429687,
+        "Title": "Practical Tips for Cheating at Design",
+        "URL": "https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886",
+        "Points": 480,
+        "Comments": 92,
+        "CommentsURL": "https://news.ycombinator.com/item?id=16429687",
+        "Submitter": "marvinpinto",
+        "Timestamp": "2018-02-21T20:52:49.427625598-08:00"
+    },
+    {
+        "ID": 16421641,
+        "Title": "How Justin Kan fundraises",
+        "URL": "https://blog.atrium.co/behind-the-scenes-how-justin-kan-fundraises-6bae1003aabe",
+        "Points": 121,
+        "Comments": 60,
+        "CommentsURL": "https://news.ycombinator.com/item?id=16421641",
+        "Submitter": "lukasschwab",
+        "Timestamp": "2018-02-20T20:52:49.427625598-08:00"
+    },
+    {
+        "ID": 16366275,
+        "Title": "Show HN: Web scraping page analyzer",
+        "URL": "https://www.apify.com/page-analyzer",
+        "Points": 166,
+        "Comments": 50,
+        "CommentsURL": "https://news.ycombinator.com/item?id=16366275",
+        "Submitter": "jardah",
+        "Timestamp": "2018-02-13T20:52:49.427625598-08:00"
+    },
+    {
+        "ID": 16356808,
+        "Title": "Adventures in Autorouting (2017)",
+        "URL": "https://wp.josh.com/2017/10/23/adventures-in-autorouting/",
+        "Points": 89,
+        "Comments": 37,
+        "CommentsURL": "https://news.ycombinator.com/item?id=16356808",
+        "Submitter": "luu",
+        "Timestamp": "2018-02-12T20:52:49.427625598-08:00"
+    },
+    {
+        "ID": 16325394,
+        "Title": "Tinc VPN: Secure Private Network Between Hosts",
+        "URL": "https://www.tinc-vpn.org/",
+        "Points": 420,
+        "Comments": 195,
+        "CommentsURL": "https://news.ycombinator.com/item?id=16325394",
+        "Submitter": "phantom_oracle",
+        "Timestamp": "2018-02-07T20:52:49.427625598-08:00"
+    },
+    {
+        "ID": 16292162,
+        "Title": "Plan 9 public grid",
+        "URL": "http://wiki.9gridchan.org/public_grid/index.html",
+        "Points": 182,
+        "Comments": 43,
+        "CommentsURL": "https://news.ycombinator.com/item?id=16292162",
+        "Submitter": "zeveb",
+        "Timestamp": "2018-02-02T20:52:49.427625598-08:00"
+    },
+    {
+        "ID": 16253193,
+        "Title": "Introduction to OS Abstractions Using Plan 9 from Bell Labs (2007) [pdf]",
+        "URL": "https://lsub.org/who/nemo/9.intro.pdf",
+        "Points": 234,
+        "Comments": 67,
+        "CommentsURL": "https://news.ycombinator.com/item?id=16253193",
+        "Submitter": "marttt",
+        "Timestamp": "2018-01-28T20:52:49.427625598-08:00"
+    },
+    {
+        "ID": 16202457,
+        "Title": "Fourier transforms of images (2017)",
+        "URL": "https://plus.maths.org/content/fourier-transforms-images",
+        "Points": 174,
+        "Comments": 36,
+        "CommentsURL": "https://news.ycombinator.com/item?id=16202457",
+        "Submitter": "sytelus",
+        "Timestamp": "2018-01-22T20:52:49.427625598-08:00"
+    },
+    {
+        "ID": 16119731,
+        "Title": "Sourcegraph Server 2.4: free, powerful search for private code",
+        "URL": "https://about.sourcegraph.com/blog/introducing-sourcegraph-server-2-4/",
+        "Points": 188,
+        "Comments": 82,
+        "CommentsURL": "https://news.ycombinator.com/item?id=16119731",
+        "Submitter": "azmenak",
+        "Timestamp": "2018-01-10T20:52:49.427625598-08:00"
+    },
+    {
+        "ID": 16117692,
+        "Title": "Show HN: CodeOwl – Organize your notes, todos, and code snippets in one place",
+        "URL": "https://codeowl.io/",
+        "Points": 130,
+        "Comments": 64,
+        "CommentsURL": "https://news.ycombinator.com/item?id=16117692",
+        "Submitter": "charbz",
+        "Timestamp": "2018-01-10T20:52:49.427625598-08:00"
+    },
+    {
+        "ID": 16089064,
+        "Title": "Web scraping in rust",
+        "URL": "https://medium.com/@kadek/web-scraping-in-rust-881b534a60f7",
+        "Points": 12,
+        "Comments": 1,
+        "CommentsURL": "https://news.ycombinator.com/item?id=16089064",
+        "Submitter": "chewbacha",
+        "Timestamp": "2018-01-06T20:52:49.427625598-08:00"
+    },
+    {
+        "ID": 16074096,
+        "Title": "Texttop – An interactive X Linux desktop rendered in TTY and streamable over SSH",
+        "URL": "https://github.com/tombh/texttop",
+        "Points": 551,
+        "Comments": 92,
+        "CommentsURL": "https://news.ycombinator.com/item?id=16074096",
+        "Submitter": "sandebert",
+        "Timestamp": "2018-01-04T20:52:49.427625598-08:00"
+    },
+    {
+        "ID": 16075933,
+        "Title": "TeaVM – Ahead-of-time transpiler of Java bytecode to JavaScript or WebAssembly",
+        "URL": "http://teavm.org/",
+        "Points": 195,
+        "Comments": 126,
+        "CommentsURL": "https://news.ycombinator.com/item?id=16075933",
+        "Submitter": "entelechy",
+        "Timestamp": "2018-01-04T20:52:49.427625598-08:00"
+    },
+    {
+        "ID": 16040924,
+        "Title": "The One Product You Should Buy Online: Eyeglasses",
+        "URL": "https://www.huffingtonpost.com/entry/the-one-product-you-should-buy-online_us_598e1777e4b0ed1f464c0aac",
+        "Points": 136,
+        "Comments": 97,
+        "CommentsURL": "https://news.ycombinator.com/item?id=16040924",
+        "Submitter": "walterbell",
+        "Timestamp": "2018-01-01T20:52:49.427625598-08:00"
+    },
+    {
+        "ID": 16007045,
+        "Title": "I amplified my home's Wi-Fi with aluminum foil",
+        "URL": "https://www.jiffchat.com/m/2ZUaCkOed9+sHn4FHOS+PC2TGvE_vfjTVtKvyYvWbAE=",
+        "Points": 447,
+        "Comments": 176,
+        "CommentsURL": "https://news.ycombinator.com/item?id=16007045",
+        "Submitter": "niwde",
+        "Timestamp": "2018-01-01T20:52:49.756771253-08:00"
+    },
+    {
+        "ID": 16005460,
+        "Title": "How to Write Articles and Essays Quickly and Expertly (2006)",
+        "URL": "http://www.downes.ca/post/38526",
+        "Points": 337,
+        "Comments": 33,
+        "CommentsURL": "https://news.ycombinator.com/item?id=16005460",
+        "Submitter": "ridruejo",
+        "Timestamp": "2018-01-01T20:52:49.756771253-08:00"
+    },
+    {
+        "ID": 9987679,
+        "Title": "Ask HN: What was Usenet's ultimate demise?",
+        "URL": "item?id=9987679",
+        "Points": 135,
+        "Comments": 140,
+        "CommentsURL": "https://news.ycombinator.com/item?id=9987679",
+        "Submitter": "jebblue",
+        "Timestamp": "2015-08-01T00:00:00Z"
+    },
+    {
+        "ID": 15841312,
+        "Title": "Using LD_PRELOAD to cheat, inject features and investigate programs (2013)",
+        "URL": "https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/",
+        "Points": 142,
+        "Comments": 86,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15841312",
+        "Submitter": "striking",
+        "Timestamp": "2018-01-01T20:52:49.756771253-08:00"
+    },
+    {
+        "ID": 15845118,
+        "Title": "Debugging an evil Go runtime bug",
+        "URL": "https://marcan.st/2017/12/debugging-an-evil-go-runtime-bug/",
+        "Points": 498,
+        "Comments": 48,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15845118",
+        "Submitter": "cmsimike",
+        "Timestamp": "2018-01-01T20:52:49.756771253-08:00"
+    },
+    {
+        "ID": 15848550,
+        "Title": "IPvlan overlay-free Kubernetes Networking in AWS",
+        "URL": "https://eng.lyft.com/announcing-cni-ipvlan-vpc-k8s-ipvlan-overlay-free-kubernetes-networking-in-aws-95191201476e",
+        "Points": 144,
+        "Comments": 56,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15848550",
+        "Submitter": "theatrus2",
+        "Timestamp": "2018-01-01T20:52:49.756771253-08:00"
+    },
+    {
+        "ID": 15775548,
+        "Title": "Ask HN: CS papers for software architecture and design?",
+        "URL": "item?id=15775548",
+        "Points": 525,
+        "Comments": 99,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15775548",
+        "Submitter": "avrmav",
+        "Timestamp": "2017-12-02T20:52:49.756771253-08:00"
+    },
+    {
+        "ID": 15753150,
+        "Title": "A CEO's Guide to Emacs (2015)",
+        "URL": "https://blog.fugue.co/2015-11-11-guide-to-emacs.html",
+        "Points": 364,
+        "Comments": 172,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15753150",
+        "Submitter": "prakashk",
+        "Timestamp": "2017-12-02T20:52:49.756771253-08:00"
+    },
+    {
+        "ID": 15750700,
+        "Title": "JIT compiling a subset of Python to x86-64",
+        "URL": "https://csl.name/post/python-compiler/",
+        "Points": 128,
+        "Comments": 18,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15750700",
+        "Submitter": "ksaua",
+        "Timestamp": "2017-12-02T20:52:49.756771253-08:00"
+    },
+    {
+        "ID": 15728147,
+        "Title": "Matrix Calculus",
+        "URL": "http://www.matrixcalculus.org",
+        "Points": 408,
+        "Comments": 51,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15728147",
+        "Submitter": "sytelus",
+        "Timestamp": "2017-12-02T20:52:49.756771253-08:00"
+    },
+    {
+        "ID": 15722135,
+        "Title": "ZFS from a MySQL perspective",
+        "URL": "https://www.percona.com/blog/2017/11/15/zfs-from-a-mysql-perspective/?utm_campaign=2017%20Q4%20Blogs\u0026utm_content=63170561\u0026utm_medium=social\u0026utm_source=twitter",
+        "Points": 161,
+        "Comments": 71,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15722135",
+        "Submitter": "rbanffy",
+        "Timestamp": "2017-12-02T20:52:49.756771253-08:00"
+    },
+    {
+        "ID": 15714989,
+        "Title": "A Sampling of Anti-Decompilation Techniques",
+        "URL": "https://blog.ret2.io/2017/11/16/dangers-of-the-decompiler/",
+        "Points": 120,
+        "Comments": 32,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15714989",
+        "Submitter": "swalsh",
+        "Timestamp": "2017-12-02T20:52:49.756771253-08:00"
+    },
+    {
+        "ID": 15704169,
+        "Title": "Kickstarter launches Drip, a Patreon competitor",
+        "URL": "https://www.theverge.com/2017/11/15/16652582/kickstarter-drip-creator-subscription-service-announced-perry-chen-interview",
+        "Points": 138,
+        "Comments": 83,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15704169",
+        "Submitter": "artsandsci",
+        "Timestamp": "2017-12-02T20:52:49.756771253-08:00"
+    },
+    {
+        "ID": 15389727,
+        "Title": "Guacamole – A clientless remote desktop gateway",
+        "URL": "https://guacamole.incubator.apache.org/",
+        "Points": 1096,
+        "Comments": 216,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15389727",
+        "Submitter": "mutin-sa",
+        "Timestamp": "2017-10-03T21:52:49.756771253-07:00"
+    },
+    {
+        "ID": 15688097,
+        "Title": "Brilliant Jerks in Engineering",
+        "URL": "http://www.brendangregg.com/blog/2017-11-13/brilliant-jerks.html",
+        "Points": 267,
+        "Comments": 231,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15688097",
+        "Submitter": "dmit",
+        "Timestamp": "2017-12-02T20:52:49.756771253-08:00"
+    },
+    {
+        "ID": 15690121,
+        "Title": "Understanding Hinton’s Capsule Networks, Part I: Intuition",
+        "URL": "https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b",
+        "Points": 276,
+        "Comments": 44,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15690121",
+        "Submitter": "rbanffy",
+        "Timestamp": "2017-12-02T20:52:49.756771253-08:00"
+    },
+    {
+        "ID": 13882601,
+        "Title": "The eigenvector of “Why we moved from language X to language Y”",
+        "URL": "https://erikbern.com/2017/03/15/the-eigenvector-of-why-we-moved-from-language-x-to-language-y.html",
+        "Points": 442,
+        "Comments": 189,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13882601",
+        "Submitter": "platz",
+        "Timestamp": "2017-03-16T00:00:00Z"
+    },
+    {
+        "ID": 15660145,
+        "Title": "The Antique Cannabis Book",
+        "URL": "http://antiquecannabisbook.com/",
+        "Points": 102,
+        "Comments": 30,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15660145",
+        "Submitter": "wilsonfiifi",
+        "Timestamp": "2017-12-02T20:52:49.756771253-08:00"
+    },
+    {
+        "ID": 15658437,
+        "Title": "I poured my blood, sweat and life savings into my restaurant. It ruined my life.",
+        "URL": "https://torontolife.com/food/restaurant-ruined-life/",
+        "Points": 203,
+        "Comments": 183,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15658437",
+        "Submitter": "moonka",
+        "Timestamp": "2017-12-02T20:52:49.756771253-08:00"
+    },
+    {
+        "ID": 15654130,
+        "Title": "Show HN: Keratin AuthN – Accounts and Auth Microservice in Go",
+        "URL": "https://keratin.tech",
+        "Points": 104,
+        "Comments": 54,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15654130",
+        "Submitter": "cainlevy",
+        "Timestamp": "2017-12-02T20:52:49.756771253-08:00"
+    },
+    {
+        "ID": 15652078,
+        "Title": "An engineer’s guide to cloud capacity planning",
+        "URL": "https://increment.com/cloud/an-engineers-guide-to-cloud-capacity-planning/",
+        "Points": 143,
+        "Comments": 34,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15652078",
+        "Submitter": "gk1",
+        "Timestamp": "2017-12-02T20:52:49.756771253-08:00"
+    },
+    {
+        "ID": 15625330,
+        "Title": "What is backpropagation and what is it doing? [video]",
+        "URL": "https://www.youtube.com/watch?v=Ilg3gGewQ5U",
+        "Points": 645,
+        "Comments": 99,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15625330",
+        "Submitter": "adamnemecek",
+        "Timestamp": "2017-12-02T20:52:49.756771253-08:00"
+    },
+    {
+        "ID": 15611265,
+        "Title": "Show HN: Ready-to-use API to convert any web page to PDF using headless Chrome",
+        "URL": "https://www.apify.com/jancurn/url-to-pdf",
+        "Points": 129,
+        "Comments": 64,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15611265",
+        "Submitter": "jancurn",
+        "Timestamp": "2017-11-02T21:52:49.756771253-07:00"
+    },
+    {
+        "ID": 15592800,
+        "Title": "Bottery – A conversational agent prototyping platform",
+        "URL": "https://github.com/google/bottery",
+        "Points": 336,
+        "Comments": 73,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15592800",
+        "Submitter": "manojlds",
+        "Timestamp": "2017-11-02T21:52:49.756771253-07:00"
+    },
+    {
+        "ID": 15578594,
+        "Title": "Torus Earth (2014)",
+        "URL": "http://www.aleph.se/andart/archives/2014/02/torusearth.html",
+        "Points": 110,
+        "Comments": 17,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15578594",
+        "Submitter": "mef",
+        "Timestamp": "2017-11-02T21:52:49.756771253-07:00"
+    },
+    {
+        "ID": 15582969,
+        "Title": "F* – An ML-like functional programming language aimed at program verification",
+        "URL": "http://fstar-lang.org",
+        "Points": 264,
+        "Comments": 95,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15582969",
+        "Submitter": "philonoist",
+        "Timestamp": "2017-11-02T21:52:49.756771253-07:00"
+    },
+    {
+        "ID": 15540999,
+        "Title": "Botnik, an AI-assisted humor application",
+        "URL": "https://www.wired.com/story/botnik-ai-comedy-app/",
+        "Points": 33,
+        "Comments": 7,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15540999",
+        "Submitter": "gk1",
+        "Timestamp": "2017-11-02T21:52:49.756771253-07:00"
+    },
+    {
+        "ID": 15483613,
+        "Title": "Suggested Topics on Data Structures (2016) [pdf]",
+        "URL": "https://web.stanford.edu/class/cs166/handouts/090%20Final%20Project%20Topics.pdf",
+        "Points": 216,
+        "Comments": 12,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15483613",
+        "Submitter": "yangshun",
+        "Timestamp": "2017-11-02T21:52:49.756771253-07:00"
+    },
+    {
+        "ID": 15474043,
+        "Title": "Traceroute Lies: A Typical Misinterpretation Of Output",
+        "URL": "http://movingpackets.net/2017/10/06/misinterpreting-traceroute/",
+        "Points": 111,
+        "Comments": 14,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15474043",
+        "Submitter": "jsnell",
+        "Timestamp": "2017-11-02T21:52:49.756771253-07:00"
+    },
+    {
+        "ID": 15466611,
+        "Title": "Is there an upside to having no social life?",
+        "URL": "http://www.bbc.com/capital/story/20171011-is-there-an-upside-to-having-no-social-life",
+        "Points": 196,
+        "Comments": 140,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15466611",
+        "Submitter": "hvo",
+        "Timestamp": "2017-11-02T21:52:49.756771253-07:00"
+    },
+    {
+        "ID": 15460645,
+        "Title": "Securing Microservices",
+        "URL": "https://medium.facilelogin.com/securing-microservices-with-oauth-2-0-jwt-and-xacml-d03770a9a838",
+        "Points": 162,
+        "Comments": 56,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15460645",
+        "Submitter": "prabaths",
+        "Timestamp": "2017-11-02T21:52:51.054013618-07:00"
+    },
+    {
+        "ID": 15437644,
+        "Title": "Why Your Dockerized Application Isn’t Receiving Signals",
+        "URL": "https://hynek.me/articles/docker-signals/",
+        "Points": 3,
+        "Comments": 5,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15437644",
+        "Submitter": "pmoriarty",
+        "Timestamp": "2017-11-02T21:52:51.054013618-07:00"
+    },
+    {
+        "ID": 15433891,
+        "Title": "The Last Line Effect",
+        "URL": "https://www.viva64.com/en/b/0260/",
+        "Points": 69,
+        "Comments": 8,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15433891",
+        "Submitter": "baoyu",
+        "Timestamp": "2017-11-02T21:52:51.054013618-07:00"
+    },
+    {
+        "ID": 15395575,
+        "Title": "Stopping Tor Attacks",
+        "URL": "http://www.hackerfactor.com/blog/index.php?/archives/777-Stopping-Tor-Attacks.html",
+        "Points": 22,
+        "Comments": 6,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15395575",
+        "Submitter": "MBCook",
+        "Timestamp": "2017-10-03T21:52:51.054013618-07:00"
+    },
+    {
+        "ID": 15357394,
+        "Title": "Show HN: 300k lines of Java UI code running as JavaScript in browser",
+        "URL": "http://reportmill.com/cj/RMStudio/",
+        "Points": 154,
+        "Comments": 66,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15357394",
+        "Submitter": "jeffreportmill1",
+        "Timestamp": "2017-10-03T21:52:51.054013618-07:00"
+    },
+    {
+        "ID": 15314629,
+        "Title": "Winamp2-Js: A Reimplementation of Winamp 2.9 in HTML5 and JavaScript",
+        "URL": "https://jordaneldredge.com/projects/winamp2-js/",
+        "Points": 232,
+        "Comments": 109,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15314629",
+        "Submitter": "nfriedly",
+        "Timestamp": "2017-10-03T21:52:51.054013618-07:00"
+    },
+    {
+        "ID": 15302317,
+        "Title": "Polygonal Map Generation, HTML5 Version",
+        "URL": "https://simblob.blogspot.com.au/2017/09/mapgen2-html5.html",
+        "Points": 84,
+        "Comments": 16,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15302317",
+        "Submitter": "signa11",
+        "Timestamp": "2017-10-03T21:52:51.054013618-07:00"
+    },
+    {
+        "ID": 15302035,
+        "Title": "Recutils – Tools and libraries to access plain text databases called Recfiles",
+        "URL": "https://www.gnu.org/software/recutils/",
+        "Points": 106,
+        "Comments": 46,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15302035",
+        "Submitter": "jdemler",
+        "Timestamp": "2017-10-03T21:52:51.054013618-07:00"
+    },
+    {
+        "ID": 15236377,
+        "Title": "General and Surprising",
+        "URL": "http://paulgraham.com/sun.html",
+        "Points": 417,
+        "Comments": 196,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15236377",
+        "Submitter": "maguay",
+        "Timestamp": "2017-10-03T21:52:51.054013618-07:00"
+    },
+    {
+        "ID": 15231302,
+        "Title": "What every software engineer should know about search",
+        "URL": "https://medium.com/startup-grind/what-every-software-engineer-should-know-about-search-27d1df99f80d",
+        "Points": 368,
+        "Comments": 55,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15231302",
+        "Submitter": "forwidur",
+        "Timestamp": "2017-10-03T21:52:51.054013618-07:00"
+    },
+    {
+        "ID": 15214439,
+        "Title": "Solving pocket Rubik’s cube (2*2*2) using Z3 and SAT solver",
+        "URL": "https://yurichev.com/blog/rubik/",
+        "Points": 75,
+        "Comments": 17,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15214439",
+        "Submitter": "dennis714",
+        "Timestamp": "2017-10-03T21:52:51.054013618-07:00"
+    },
+    {
+        "ID": 15209632,
+        "Title": "Breaking the x86 Instruction Set: how to find undocumented x86 instructions",
+        "URL": "https://www.youtube.com/watch?v=KrksBdWcZgQ",
+        "Points": 174,
+        "Comments": 28,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15209632",
+        "Submitter": "old-gregg",
+        "Timestamp": "2017-10-03T21:52:51.054013618-07:00"
+    },
+    {
+        "ID": 15195451,
+        "Title": "Citus 7: Transactions, Framework Integration, and Postgres 10",
+        "URL": "https://www.citusdata.com/blog/2017/09/07/citus-7-distributed-transactions-frameworks-and-pg10/",
+        "Points": 93,
+        "Comments": 11,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15195451",
+        "Submitter": "manigandham",
+        "Timestamp": "2017-10-03T21:52:51.054013618-07:00"
+    },
+    {
+        "ID": 15150237,
+        "Title": "De-Anonymizing Programmers via Code Stylometry (2015) [pdf]",
+        "URL": "https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-caliskan-islam.pdf",
+        "Points": 173,
+        "Comments": 52,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15150237",
+        "Submitter": "sillysaurus3",
+        "Timestamp": "2017-09-03T21:52:51.054013618-07:00"
+    },
+    {
+        "ID": 15142266,
+        "Title": "LogDevice: a distributed data store for logs",
+        "URL": "https://code.facebook.com/posts/357056558062811/logdevice-a-distributed-data-store-for-logs/",
+        "Points": 186,
+        "Comments": 40,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15142266",
+        "Submitter": "vquemener",
+        "Timestamp": "2017-09-03T21:52:51.054013618-07:00"
+    },
+    {
+        "ID": 15131310,
+        "Title": "Restic Cryptography",
+        "URL": "https://blog.filippo.io/restic-cryptography/",
+        "Points": 105,
+        "Comments": 36,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15131310",
+        "Submitter": "FiloSottile",
+        "Timestamp": "2017-09-03T21:52:51.054013618-07:00"
+    },
+    {
+        "ID": 15130495,
+        "Title": "Drone Building 101",
+        "URL": "https://airfield.io",
+        "Points": 161,
+        "Comments": 29,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15130495",
+        "Submitter": "bharatkhatri14",
+        "Timestamp": "2017-09-03T21:52:51.054013618-07:00"
+    },
+    {
+        "ID": 15122540,
+        "Title": "FizzleFade",
+        "URL": "http://fabiensanglard.net/fizzlefade/index.php",
+        "Points": 604,
+        "Comments": 176,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15122540",
+        "Submitter": "pietrofmaggi",
+        "Timestamp": "2017-09-03T21:52:51.054013618-07:00"
+    },
+    {
+        "ID": 15117865,
+        "Title": "KSQL: Open Source Streaming SQL for Apache Kafka",
+        "URL": "https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/",
+        "Points": 278,
+        "Comments": 81,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15117865",
+        "Submitter": "uptown",
+        "Timestamp": "2017-09-03T21:52:51.054013618-07:00"
+    },
+    {
+        "ID": 15107730,
+        "Title": "Breaking up the Container Monolith",
+        "URL": "https://developers.redhat.com/blog/2017/05/04/breaking-up-the-container-monolith/",
+        "Points": 104,
+        "Comments": 32,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15107730",
+        "Submitter": "perpetualcrayon",
+        "Timestamp": "2017-09-03T21:52:51.054013618-07:00"
+    },
+    {
+        "ID": 15103442,
+        "Title": "MTuner is a C/C++ memory profiler and memory leak finder",
+        "URL": "https://github.com/milostosic/MTuner",
+        "Points": 169,
+        "Comments": 34,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15103442",
+        "Submitter": "llazzaro",
+        "Timestamp": "2017-09-03T21:52:51.054013618-07:00"
+    },
+    {
+        "ID": 15033156,
+        "Title": "Ask HN: What mistakes in your experience does management keep making?",
+        "URL": "item?id=15033156",
+        "Points": 451,
+        "Comments": 379,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15033156",
+        "Submitter": "oggyfredcake",
+        "Timestamp": "2017-09-03T21:52:51.054013618-07:00"
+    },
+    {
+        "ID": 14050017,
+        "Title": "Hexing the technical interview",
+        "URL": "https://aphyr.com/posts/341-hexing-the-technical-interview",
+        "Points": 111,
+        "Comments": 6,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14050017",
+        "Submitter": "ingve",
+        "Timestamp": "2017-04-06T21:52:51.054013618-07:00"
+    },
+    {
+        "ID": 15048203,
+        "Title": "Introducing WAL-G: Faster Disaster Recovery for Postgres",
+        "URL": "https://www.citusdata.com/blog/2017/08/18/introducing-wal-g-faster-restores-for-postgres/",
+        "Points": 217,
+        "Comments": 65,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15048203",
+        "Submitter": "craigkerstiens",
+        "Timestamp": "2017-09-03T21:52:51.054013618-07:00"
+    },
+    {
+        "ID": 15047978,
+        "Title": "Docker Is Raising Funding at $1.3B Valuation",
+        "URL": "https://www.bloomberg.com/news/articles/2017-08-09/docker-is-said-to-be-raising-funding-at-1-3-billion-valuation",
+        "Points": 321,
+        "Comments": 275,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15047978",
+        "Submitter": "moritzplassnig",
+        "Timestamp": "2017-09-03T21:52:51.054013618-07:00"
+    },
+    {
+        "ID": 15034089,
+        "Title": "A programming language from scratch: 3 steps to an interpreter",
+        "URL": "https://francisstokes.wordpress.com/2017/08/16/programming-language-from-scratch/",
+        "Points": 217,
+        "Comments": 33,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15034089",
+        "Submitter": "FrancisStokes",
+        "Timestamp": "2017-09-03T21:52:51.054013618-07:00"
+    },
+    {
+        "ID": 15028329,
+        "Title": "Puppeteer: Headless Chrome Node API",
+        "URL": "https://github.com/GoogleChrome/puppeteer",
+        "Points": 406,
+        "Comments": 100,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15028329",
+        "Submitter": "uptown",
+        "Timestamp": "2017-09-03T21:52:51.054013618-07:00"
+    },
+    {
+        "ID": 15020622,
+        "Title": "High-process-count support added to master",
+        "URL": "http://lists.dragonflybsd.org/pipermail/users/2017-August/313552.html",
+        "Points": 84,
+        "Comments": 26,
+        "CommentsURL": "https://news.ycombinator.com/item?id=15020622",
+        "Submitter": "tiffanyh",
+        "Timestamp": "2017-09-03T21:52:51.054013618-07:00"
+    },
+    {
+        "ID": 10921365,
+        "Title": "I ended up paying $150 for a single 60GB download from Amazon Glacier",
+        "URL": "https://medium.com/@karppinen/how-i-ended-up-paying-150-for-a-single-60gb-download-from-amazon-glacier-6cb77b288c3e#.w582hjycu",
+        "Points": 639,
+        "Comments": 222,
+        "CommentsURL": "https://news.ycombinator.com/item?id=10921365",
+        "Submitter": "markonen",
+        "Timestamp": "2016-01-17T00:00:00Z"
+    },
+    {
+        "ID": 14980075,
+        "Title": "Show HN: Kozmos – A Personal Library",
+        "URL": "https://getkozmos.com/",
+        "Points": 197,
+        "Comments": 72,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14980075",
+        "Submitter": "roadbeats",
+        "Timestamp": "2017-09-03T21:52:51.054013618-07:00"
+    },
+    {
+        "ID": 14959288,
+        "Title": "Linux Load Averages: Solving the Mystery",
+        "URL": "http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html",
+        "Points": 623,
+        "Comments": 86,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14959288",
+        "Submitter": "dmit",
+        "Timestamp": "2017-09-03T21:52:51.952239297-07:00"
+    },
+    {
+        "ID": 14939255,
+        "Title": "HTML5 Version of the Tron:Legacy Boardroom Scene",
+        "URL": "https://www.robscanlon.com/encom-boardroom/",
+        "Points": 701,
+        "Comments": 66,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14939255",
+        "Submitter": "PleaseHelpMe",
+        "Timestamp": "2017-09-03T21:52:51.952239297-07:00"
+    },
+    {
+        "ID": 14933002,
+        "Title": "A polyglot's guide to multiple dispatch (2016)",
+        "URL": "http://eli.thegreenplace.net/2016/a-polyglots-guide-to-multiple-dispatch",
+        "Points": 63,
+        "Comments": 16,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14933002",
+        "Submitter": "tosh",
+        "Timestamp": "2017-08-04T21:52:51.952239297-07:00"
+    },
+    {
+        "ID": 14933367,
+        "Title": "Optimizing Hash-Array Mapped Tries for Fast Immutable JVM Collections (2015) [pdf]",
+        "URL": "https://michael.steindorfer.name/publications/oopsla15.pdf",
+        "Points": 98,
+        "Comments": 25,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14933367",
+        "Submitter": "tosh",
+        "Timestamp": "2017-08-04T21:52:51.952239297-07:00"
+    },
+    {
+        "ID": 14911372,
+        "Title": "Show HN: Bt – BitTorrent library in Java 8",
+        "URL": "https://github.com/atomashpolskiy/bt/blob/master/README.md#----bt",
+        "Points": 254,
+        "Comments": 87,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14911372",
+        "Submitter": "atomashpolskiy",
+        "Timestamp": "2017-08-04T21:52:51.952239297-07:00"
+    },
+    {
+        "ID": 14163111,
+        "Title": "Cap'n'Proto remote vuln: pointer overflow check optimized away by compiler",
+        "URL": "https://github.com/sandstorm-io/capnproto/blob/master/security-advisories/2017-04-17-0-apple-clang-elides-bounds-check.md",
+        "Points": 157,
+        "Comments": 175,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14163111",
+        "Submitter": "fulafel",
+        "Timestamp": "2017-05-06T21:52:51.952239297-07:00"
+    },
+    {
+        "ID": 14882120,
+        "Title": "Going down the rabbit hole with go-fuzz",
+        "URL": "https://mijailovic.net/2017/07/29/go-fuzz/",
+        "Points": 98,
+        "Comments": 14,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14882120",
+        "Submitter": "Metalnem",
+        "Timestamp": "2017-08-04T21:52:51.952239297-07:00"
+    },
+    {
+        "ID": 14850454,
+        "Title": "Schleuder: A GPG-enabled mailinglist with remailing-capabilities",
+        "URL": "https://schleuder.nadir.org/",
+        "Points": 81,
+        "Comments": 18,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14850454",
+        "Submitter": "cvwright",
+        "Timestamp": "2017-08-04T21:52:51.952239297-07:00"
+    },
+    {
+        "ID": 14815728,
+        "Title": "Cosette: An Automated SQL Solver",
+        "URL": "http://cosette.cs.washington.edu/",
+        "Points": 109,
+        "Comments": 21,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14815728",
+        "Submitter": "mpweiher",
+        "Timestamp": "2017-08-04T21:52:51.952239297-07:00"
+    },
+    {
+        "ID": 14811577,
+        "Title": "Things to learn in React before using Redux",
+        "URL": "https://www.robinwieruch.de/learn-react-before-using-redux/",
+        "Points": 370,
+        "Comments": 104,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14811577",
+        "Submitter": "callumlocke",
+        "Timestamp": "2017-08-04T21:52:51.952239297-07:00"
+    },
+    {
+        "ID": 14805395,
+        "Title": "Inside Wade, a 1kb search library",
+        "URL": "https://blog.kabir.ml/posts/inside-wade.html",
+        "Points": 88,
+        "Comments": 29,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14805395",
+        "Submitter": "kbr",
+        "Timestamp": "2017-08-04T21:52:51.952239297-07:00"
+    },
+    {
+        "ID": 14783538,
+        "Title": "Sentiment analysis on Twitter using word2vec and keras",
+        "URL": "http://ahmedbesbes.com/sentiment-analysis-on-twitter-using-word2vec-and-keras.html#.WWu1sV3rWjo.hackernews",
+        "Points": 52,
+        "Comments": 12,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14783538",
+        "Submitter": "ahmedbesbes",
+        "Timestamp": "2017-08-04T21:52:51.952239297-07:00"
+    },
+    {
+        "ID": 14646063,
+        "Title": "The Limits of the CAP Theorem",
+        "URL": "https://www.cockroachlabs.com/blog/limits-of-the-cap-theorem/",
+        "Points": 182,
+        "Comments": 44,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14646063",
+        "Submitter": "bdarnell",
+        "Timestamp": "2017-07-05T21:52:51.952239297-07:00"
+    },
+    {
+        "ID": 14737118,
+        "Title": "Show HN: Seashells – Pipe output from CLI apps to the web in real time",
+        "URL": "https://seashells.io/",
+        "Points": 356,
+        "Comments": 70,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14737118",
+        "Submitter": "anishathalye",
+        "Timestamp": "2017-08-04T21:52:51.952239297-07:00"
+    },
+    {
+        "ID": 14591452,
+        "Title": "Playing with ZFS encryption on Linux",
+        "URL": "https://www.rolando.cl/blog/2017/06/13/playing-with-zfs-encryption/",
+        "Points": 135,
+        "Comments": 55,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14591452",
+        "Submitter": "funkaster",
+        "Timestamp": "2017-07-05T21:52:51.952239297-07:00"
+    },
+    {
+        "ID": 14553222,
+        "Title": "Bugs You'll Probably Only Have in Rust",
+        "URL": "https://gankro.github.io/blah/only-in-rust/",
+        "Points": 367,
+        "Comments": 83,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14553222",
+        "Submitter": "Gankro",
+        "Timestamp": "2017-07-05T21:52:51.952239297-07:00"
+    },
+    {
+        "ID": 14461799,
+        "Title": "Show HN: “Statements and State”, the next chapter of my book on interpreters",
+        "URL": "http://www.craftinginterpreters.com/statements-and-state.html",
+        "Points": 141,
+        "Comments": 50,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14461799",
+        "Submitter": "munificent",
+        "Timestamp": "2017-06-05T21:52:51.952239297-07:00"
+    },
+    {
+        "ID": 14564624,
+        "Title": "Twitter, but for Math, with Toots",
+        "URL": "http://blogs.ams.org/blogonmathblogs/2017/06/08/twitter-but-for-math-with-toots/",
+        "Points": 175,
+        "Comments": 29,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14564624",
+        "Submitter": "aqsalose",
+        "Timestamp": "2017-07-05T21:52:51.952239297-07:00"
+    },
+    {
+        "ID": 14537506,
+        "Title": "Reverse engineering guide for beginners: Methodology and tools",
+        "URL": "https://0x00sec.org/t/re-guide-for-beginners-methodology-and-tools/2242",
+        "Points": 801,
+        "Comments": 63,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14537506",
+        "Submitter": "ingve",
+        "Timestamp": "2017-07-05T21:52:51.952239297-07:00"
+    },
+    {
+        "ID": 14409269,
+        "Title": "Little Things I Like to Do with Git",
+        "URL": "https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/",
+        "Points": 656,
+        "Comments": 103,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14409269",
+        "Submitter": "csswizardry",
+        "Timestamp": "2017-06-05T21:52:51.952239297-07:00"
+    },
+    {
+        "ID": 14381504,
+        "Title": "Writing a lexer in Go with Lexmachine (2016)",
+        "URL": "http://hackthology.com/writing-a-lexer-in-go-with-lexmachine.html",
+        "Points": 128,
+        "Comments": 3,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14381504",
+        "Submitter": "terminalcommand",
+        "Timestamp": "2017-06-05T21:52:51.952239297-07:00"
+    },
+    {
+        "ID": 14290856,
+        "Title": "Kubernetes clusters for the hobbyist",
+        "URL": "https://github.com/hobby-kube/guide",
+        "Points": 321,
+        "Comments": 65,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14290856",
+        "Submitter": "pstadler",
+        "Timestamp": "2017-06-05T21:52:51.952239297-07:00"
+    },
+    {
+        "ID": 14272133,
+        "Title": "Show HN: Pocket Stream Archive – A personal Way-Back Machine",
+        "URL": "https://github.com/pirate/pocket-archive-stream",
+        "Points": 217,
+        "Comments": 68,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14272133",
+        "Submitter": "nikisweeting",
+        "Timestamp": "2017-05-06T21:52:51.952239297-07:00"
+    },
+    {
+        "ID": 14245270,
+        "Title": "OpenSnitch – A Linux clone of the Little Snitch application firewall",
+        "URL": "https://github.com/evilsocket/opensnitch",
+        "Points": 319,
+        "Comments": 103,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14245270",
+        "Submitter": "dvko",
+        "Timestamp": "2017-05-06T21:52:51.952239297-07:00"
+    },
+    {
+        "ID": 14245603,
+        "Title": "Storage engine design",
+        "URL": "http://akumuli.org/akumuli/2017/04/29/nbplustree/",
+        "Points": 179,
+        "Comments": 28,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14245603",
+        "Submitter": "chaotic-good",
+        "Timestamp": "2017-05-06T21:52:51.952239297-07:00"
+    },
+    {
+        "ID": 14246334,
+        "Title": "Show HN: MStream – A personal music streaming server",
+        "URL": "https://github.com/IrosTheBeggar/mStream",
+        "Points": 162,
+        "Comments": 64,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14246334",
+        "Submitter": "mStreamTeam",
+        "Timestamp": "2017-05-06T21:52:51.952239297-07:00"
+    },
+    {
+        "ID": 14240626,
+        "Title": "Show HN: Kryptonite – a new home for your SSH private key",
+        "URL": "https://krypt.co",
+        "Points": 338,
+        "Comments": 219,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14240626",
+        "Submitter": "4kevinking",
+        "Timestamp": "2017-05-06T21:52:51.952239297-07:00"
+    },
+    {
+        "ID": 14218559,
+        "Title": "How to talk about yourself in a developer interview",
+        "URL": "https://stackoverflow.blog/2017/04/27/how-to-talk-about-yourself-in-an-interview/?utm_content=buffer74fe2\u0026utm_medium=social\u0026utm_source=twitter.com\u0026utm_campaign=buffer",
+        "Points": 441,
+        "Comments": 191,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14218559",
+        "Submitter": "NickLarsen",
+        "Timestamp": "2017-05-06T21:52:51.952239297-07:00"
+    },
+    {
+        "ID": 14236830,
+        "Title": "FuncShell – A Haskell-based alternative to awk",
+        "URL": "https://github.com/iostreamer-X/FuncShell",
+        "Points": 141,
+        "Comments": 38,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14236830",
+        "Submitter": "_iostreamer_",
+        "Timestamp": "2017-05-06T21:52:51.952239297-07:00"
+    },
+    {
+        "ID": 14228849,
+        "Title": "Wacl: Tcl distro customized for WebAssembly",
+        "URL": "https://fossil.e-lehmann.de/wacl/index",
+        "Points": 91,
+        "Comments": 65,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14228849",
+        "Submitter": "blacksqr",
+        "Timestamp": "2017-05-06T21:52:51.952239297-07:00"
+    },
+    {
+        "ID": 14141427,
+        "Title": "Image-to-image translation in PyTorch",
+        "URL": "https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix",
+        "Points": 244,
+        "Comments": 19,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14141427",
+        "Submitter": "tcam1982",
+        "Timestamp": "2017-05-06T21:52:52.897462474-07:00"
+    },
+    {
+        "ID": 14124086,
+        "Title": "Building a simple e-ink display from scratch",
+        "URL": "http://hackaday.com/2017/04/12/can-you-build-an-e-ink-display-from-scratch/",
+        "Points": 145,
+        "Comments": 51,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14124086",
+        "Submitter": "userbinator",
+        "Timestamp": "2017-05-06T21:52:52.897462474-07:00"
+    },
+    {
+        "ID": 14121780,
+        "Title": "Golang SSH Security",
+        "URL": "https://bridge.grumpy-troll.org/2017/04/golang-ssh-security/",
+        "Points": 426,
+        "Comments": 103,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14121780",
+        "Submitter": "transitorykris",
+        "Timestamp": "2017-05-06T21:52:52.897462474-07:00"
+    },
+    {
+        "ID": 14115826,
+        "Title": "A Competitive Programmer's Handbook",
+        "URL": "https://cses.fi/book.html",
+        "Points": 1117,
+        "Comments": 157,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14115826",
+        "Submitter": "aaggarwal",
+        "Timestamp": "2017-05-06T21:52:52.897462474-07:00"
+    },
+    {
+        "ID": 14112838,
+        "Title": "Patroni: A Template for PostgreSQL HA with ZooKeeper, Etcd, or Consul",
+        "URL": "https://github.com/zalando/patroni",
+        "Points": 121,
+        "Comments": 48,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14112838",
+        "Submitter": "vishesh92",
+        "Timestamp": "2017-05-06T21:52:52.897462474-07:00"
+    },
+    {
+        "ID": 14105640,
+        "Title": "Micro-monolith anti-pattern",
+        "URL": "http://chi.pl/2017/01/30/Micro-monolith-Anti-pattern.html",
+        "Points": 111,
+        "Comments": 69,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14105640",
+        "Submitter": "kiyanwang",
+        "Timestamp": "2017-05-06T21:52:52.897462474-07:00"
+    },
+    {
+        "ID": 14073042,
+        "Title": "Ponzu – An open-source HTTP server framework and CMS in Go",
+        "URL": "https://github.com/ponzu-cms/ponzu",
+        "Points": 204,
+        "Comments": 41,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14073042",
+        "Submitter": "wilsonfiifi",
+        "Timestamp": "2017-05-06T21:52:52.897462474-07:00"
+    },
+    {
+        "ID": 14061985,
+        "Title": "The BEAM Book – A Description of the Erlang RTS and the Virtual Machine BEAM",
+        "URL": "https://github.com/happi/theBeamBook",
+        "Points": 336,
+        "Comments": 14,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14061985",
+        "Submitter": "weatherlight",
+        "Timestamp": "2017-05-06T21:52:52.897462474-07:00"
+    },
+    {
+        "ID": 14022424,
+        "Title": "Interesting data structures: the BK-tree",
+        "URL": "http://signal-to-noise.xyz/post/bk-tree/",
+        "Points": 345,
+        "Comments": 57,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14022424",
+        "Submitter": "rudi-rau",
+        "Timestamp": "2017-04-06T21:52:52.897462474-07:00"
+    },
+    {
+        "ID": 14009963,
+        "Title": "Iosevka – A Typeface for Code, from Code",
+        "URL": "https://be5invis.github.io/Iosevka/",
+        "Points": 568,
+        "Comments": 122,
+        "CommentsURL": "https://news.ycombinator.com/item?id=14009963",
+        "Submitter": "justinjlynn",
+        "Timestamp": "2017-04-01T00:00:00Z"
+    },
+    {
+        "ID": 13985239,
+        "Title": "Using IBM Bluemix Watson APIs to Optimise my CV",
+        "URL": "http://pdwhomeautomation.blogspot.com/2017/03/using-ibm-bluemix-watson-apis-to.html",
+        "Points": 174,
+        "Comments": 24,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13985239",
+        "Submitter": "rbanffy",
+        "Timestamp": "2017-03-29T00:00:00Z"
+    },
+    {
+        "ID": 13956835,
+        "Title": "Graph Data Structure Interview Questions",
+        "URL": "http://www.techiedelight.com/graphs-interview-questions/",
+        "Points": 169,
+        "Comments": 32,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13956835",
+        "Submitter": "coder007",
+        "Timestamp": "2017-03-25T00:00:00Z"
+    },
+    {
+        "ID": 13945689,
+        "Title": "Angular 4.0.0 Now Available",
+        "URL": "http://angularjs.blogspot.com/2017/03/angular-400-now-available.html",
+        "Points": 329,
+        "Comments": 345,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13945689",
+        "Submitter": "theodorejb",
+        "Timestamp": "2017-03-24T00:00:00Z"
+    },
+    {
+        "ID": 13914218,
+        "Title": "Show HN: How to write a recursive descent parser",
+        "URL": "http://www.craftinginterpreters.com/parsing-expressions.html",
+        "Points": 347,
+        "Comments": 148,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13914218",
+        "Submitter": "munificent",
+        "Timestamp": "2017-03-20T00:00:00Z"
+    },
+    {
+        "ID": 13905690,
+        "Title": "Three Months of Go, from a Haskeller’s perspective (2016)",
+        "URL": "https://www.barrucadu.co.uk/posts/etc/2016-08-25-three-months-of-go.html",
+        "Points": 364,
+        "Comments": 356,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13905690",
+        "Submitter": "slikts",
+        "Timestamp": "2017-03-19T00:00:00Z"
+    },
+    {
+        "ID": 13900153,
+        "Title": "Ask HN: Best books on AI?",
+        "URL": "item?id=13900153",
+        "Points": 375,
+        "Comments": 91,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13900153",
+        "Submitter": "mavmak",
+        "Timestamp": "2017-03-18T00:00:00Z"
+    },
+    {
+        "ID": 13884357,
+        "Title": "Web Scraping: Bypassing “403 Forbidden,” captchas, and more",
+        "URL": "http://sangaline.com/post/advanced-web-scraping-tutorial/",
+        "Points": 564,
+        "Comments": 225,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13884357",
+        "Submitter": "foob",
+        "Timestamp": "2017-03-16T00:00:00Z"
+    },
+    {
+        "ID": 13880469,
+        "Title": "Finite state transducers in Go",
+        "URL": "https://github.com/couchbaselabs/vellum",
+        "Points": 99,
+        "Comments": 9,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13880469",
+        "Submitter": "mirceasoaica",
+        "Timestamp": "2017-03-15T00:00:00Z"
+    },
+    {
+        "ID": 13878960,
+        "Title": "Deep learning with text: Learning when to skim and when to read",
+        "URL": "https://metamind.io/research/learning-when-to-skim-and-when-to-read",
+        "Points": 181,
+        "Comments": 21,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13878960",
+        "Submitter": "alrojo",
+        "Timestamp": "2017-03-15T00:00:00Z"
+    },
+    {
+        "ID": 13867316,
+        "Title": "Scala Native v0.1",
+        "URL": "https://www.scala-lang.org/blog/2017/03/14/scala-native-0.1-is-here.html",
+        "Points": 642,
+        "Comments": 240,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13867316",
+        "Submitter": "zepolud",
+        "Timestamp": "2017-03-14T00:00:00Z"
+    },
+    {
+        "ID": 13871472,
+        "Title": "PostgreSQL Parallel Query v2",
+        "URL": "http://rhaas.blogspot.com/2017/03/parallel-query-v2.html",
+        "Points": 265,
+        "Comments": 42,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13871472",
+        "Submitter": "Tostino",
+        "Timestamp": "2017-03-14T00:00:00Z"
+    },
+    {
+        "ID": 13872670,
+        "Title": "Introducing Keras 2",
+        "URL": "https://blog.keras.io/introducing-keras-2.html",
+        "Points": 445,
+        "Comments": 68,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13872670",
+        "Submitter": "mirceam",
+        "Timestamp": "2017-03-14T00:00:00Z"
+    },
+    {
+        "ID": 13851349,
+        "Title": "Silent Data Corruption Is Real",
+        "URL": "http://changelog.complete.org/archives/9769-silent-data-corruption-is-real",
+        "Points": 319,
+        "Comments": 150,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13851349",
+        "Submitter": "Ianvdl",
+        "Timestamp": "2017-03-12T00:00:00Z"
+    },
+    {
+        "ID": 13777077,
+        "Title": "The Collapse of the Unix Philosophy",
+        "URL": "https://kukuruku.co/post/the-collapse-of-the-unix-philosophy/",
+        "Points": 488,
+        "Comments": 592,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13777077",
+        "Submitter": "andreygrehov",
+        "Timestamp": "2017-03-02T00:00:00Z"
+    },
+    {
+        "ID": 13764060,
+        "Title": "Show HN: fman – file manager for programmers",
+        "URL": "https://fman.io",
+        "Points": 178,
+        "Comments": 207,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13764060",
+        "Submitter": "mherrmann",
+        "Timestamp": "2017-03-01T00:00:00Z"
+    },
+    {
+        "ID": 13759706,
+        "Title": "Satirical Summaries of Hacker News",
+        "URL": "http://n-gate.com/hackernews/",
+        "Points": 626,
+        "Comments": 138,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13759706",
+        "Submitter": "yumaikas",
+        "Timestamp": "2017-03-01T00:00:00Z"
+    },
+    {
+        "ID": 13738406,
+        "Title": "Deploying PostgreSQL Clusters Using StatefulSets",
+        "URL": "http://blog.kubernetes.io/2017/02/postgresql-clusters-kubernetes-statefulsets.html",
+        "Points": 164,
+        "Comments": 65,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13738406",
+        "Submitter": "TheIronYuppie",
+        "Timestamp": "2017-02-26T00:00:00Z"
+    },
+    {
+        "ID": 13701897,
+        "Title": "Weaponizing PostScript",
+        "URL": "https://lamehackersguide.blogspot.com/2017/02/weaponizing-postscript.html",
+        "Points": 140,
+        "Comments": 28,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13701897",
+        "Submitter": "remx",
+        "Timestamp": "2017-02-22T00:00:00Z"
+    },
+    {
+        "ID": 13701213,
+        "Title": "High-Resolution Image Inpainting Using Multi-Scale Neural Patch Synthesis",
+        "URL": "https://github.com/leehomyc/High-Res-Neural-Inpainting",
+        "Points": 69,
+        "Comments": 4,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13701213",
+        "Submitter": "santaclaus",
+        "Timestamp": "2017-02-21T00:00:00Z"
+    },
+    {
+        "ID": 13689765,
+        "Title": "Show HN: Griddle 1.0 – A customizable datagrid component for React",
+        "URL": "http://griddlegriddle.github.io/Griddle/",
+        "Points": 60,
+        "Comments": 22,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13689765",
+        "Submitter": "joelroxor",
+        "Timestamp": "2017-02-20T00:00:00Z"
+    },
+    {
+        "ID": 13647939,
+        "Title": "Opentype.js: read and write OpenType fonts using JavaScript",
+        "URL": "http://opentype.js.org/",
+        "Points": 82,
+        "Comments": 6,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13647939",
+        "Submitter": "vmorgulis",
+        "Timestamp": "2017-02-14T00:00:00Z"
+    },
+    {
+        "ID": 13644959,
+        "Title": "Introducing Cloud Spanner, a Global Database Service",
+        "URL": "https://cloudplatform.googleblog.com/2017/02/introducing-Cloud-Spanner-a-global-database-service-for-mission-critical-applications.html",
+        "Points": 1068,
+        "Comments": 434,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13644959",
+        "Submitter": "wwilson",
+        "Timestamp": "2017-02-14T00:00:00Z"
+    },
+    {
+        "ID": 13638636,
+        "Title": "Meshbird – Distributed private networking",
+        "URL": "https://github.com/meshbird/meshbird",
+        "Points": 153,
+        "Comments": 55,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13638636",
+        "Submitter": "wjh_",
+        "Timestamp": "2017-02-13T00:00:00Z"
+    },
+    {
+        "ID": 13636884,
+        "Title": "The Google Analytics Setup I Use on Every Site I Build",
+        "URL": "https://philipwalton.com/articles/the-google-analytics-setup-i-use-on-every-site-i-build/",
+        "Points": 493,
+        "Comments": 99,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13636884",
+        "Submitter": "uptown",
+        "Timestamp": "2017-02-13T00:00:00Z"
+    },
+    {
+        "ID": 13626358,
+        "Title": "Heuristically finding content in html",
+        "URL": "http://www.hydrogen18.com/blog/finding-content-in-html.html",
+        "Points": 4,
+        "Comments": 3,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13626358",
+        "Submitter": "hydrogen18",
+        "Timestamp": "2017-02-12T00:00:00Z"
+    },
+    {
+        "ID": 13623852,
+        "Title": "Show HN: Beehive – An open source IFTTT powered by Go's templating engine",
+        "URL": "https://github.com/muesli/beehive",
+        "Points": 247,
+        "Comments": 44,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13623852",
+        "Submitter": "mueslix",
+        "Timestamp": "2017-02-11T00:00:00Z"
+    },
+    {
+        "ID": 13622301,
+        "Title": "Takeover.sh – Wipe and reinstall a running Linux system via SSH without reboot",
+        "URL": "https://github.com/marcan/takeover.sh",
+        "Points": 515,
+        "Comments": 75,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13622301",
+        "Submitter": "tambourine_man",
+        "Timestamp": "2017-02-11T00:00:00Z"
+    },
+    {
+        "ID": 13622358,
+        "Title": "How to Setup a Secure VPN Server on Raspberry Pi or DigitalOcean",
+        "URL": "https://blog.hsp.dk/how-to-setup-vpn-server-on-raspberry-pi-or-digitalocean/",
+        "Points": 154,
+        "Comments": 45,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13622358",
+        "Submitter": "spaceboy",
+        "Timestamp": "2017-02-11T00:00:00Z"
+    },
+    {
+        "ID": 13608752,
+        "Title": "Reverse engineering the Intel 8008 ALU",
+        "URL": "http://www.righto.com/2017/02/reverse-engineering-surprisingly.html",
+        "Points": 93,
+        "Comments": 10,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13608752",
+        "Submitter": "reportingsjr",
+        "Timestamp": "2017-02-09T00:00:00Z"
+    },
+    {
+        "ID": 13587903,
+        "Title": "Demystifying Word2Vec",
+        "URL": "http://www.deeplearningweekly.com/blog/demystifying-word2vec",
+        "Points": 129,
+        "Comments": 14,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13587903",
+        "Submitter": "buss_jan",
+        "Timestamp": "2017-02-07T00:00:00Z"
+    },
+    {
+        "ID": 13522541,
+        "Title": "Fission: Serverless Functions as a Service for Kubernetes",
+        "URL": "http://blog.kubernetes.io/2017/01/fission-serverless-functions-as-service-for-kubernetes.html",
+        "Points": 216,
+        "Comments": 72,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13522541",
+        "Submitter": "ferrantim",
+        "Timestamp": "2017-01-30T00:00:00Z"
+    },
+    {
+        "ID": 13516488,
+        "Title": "How to Unlock Netflix Hidden Categories",
+        "URL": "http://thebrotalk.com/entertainment/how-to-unlock-netflix-hidden-categories/",
+        "Points": 213,
+        "Comments": 39,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13516488",
+        "Submitter": "joker87",
+        "Timestamp": "2017-01-29T00:00:00Z"
+    },
+    {
+        "ID": 13505936,
+        "Title": "My Next Mac Mini",
+        "URL": "https://rustyshelf.org/2017/01/07/my-next-mac-mini/",
+        "Points": 426,
+        "Comments": 346,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13505936",
+        "Submitter": "ingve",
+        "Timestamp": "2017-01-28T00:00:00Z"
+    },
+    {
+        "ID": 13508038,
+        "Title": "Box Breathing",
+        "URL": "http://quietkit.com/box-breathing/",
+        "Points": 625,
+        "Comments": 127,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13508038",
+        "Submitter": "mkempe",
+        "Timestamp": "2017-01-28T00:00:00Z"
+    },
+    {
+        "ID": 13505226,
+        "Title": "Show HN: Magnetissimo – Self-hosted torrent search engine written in Elixir",
+        "URL": "https://github.com/sergiotapia/magnetissimo?utm=hn",
+        "Points": 403,
+        "Comments": 107,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13505226",
+        "Submitter": "sergiotapia",
+        "Timestamp": "2017-01-28T00:00:00Z"
+    },
+    {
+        "ID": 13497505,
+        "Title": "Comparing Elixir and Go",
+        "URL": "https://blog.codeship.com/comparing-elixir-go/",
+        "Points": 489,
+        "Comments": 194,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13497505",
+        "Submitter": "iamd3vil",
+        "Timestamp": "2017-01-27T00:00:00Z"
+    },
+    {
+        "ID": 13488315,
+        "Title": "The internals of PostgreSQL",
+        "URL": "http://www.interdb.jp/pg/index.html",
+        "Points": 477,
+        "Comments": 53,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13488315",
+        "Submitter": "adamnemecek",
+        "Timestamp": "2017-01-26T00:00:00Z"
+    },
+    {
+        "ID": 13467611,
+        "Title": "Show HN: Chrome Extension to Filter HN Stories by Keyword",
+        "URL": "https://github.com/ShamariFeaster/chrome-extension-hn-filter",
+        "Points": 43,
+        "Comments": 28,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13467611",
+        "Submitter": "alistproducer2",
+        "Timestamp": "2017-01-24T00:00:00Z"
+    },
+    {
+        "ID": 13450814,
+        "Title": "Peloton – a relational database designed for autonomous operation",
+        "URL": "http://pelotondb.io/",
+        "Points": 155,
+        "Comments": 39,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13450814",
+        "Submitter": "zippoxer",
+        "Timestamp": "2017-01-21T00:00:00Z"
+    },
+    {
+        "ID": 13452732,
+        "Title": "Nearley – Parser toolkit for JavaScript",
+        "URL": "http://nearley.js.org/",
+        "Points": 127,
+        "Comments": 10,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13452732",
+        "Submitter": "dkarapetyan",
+        "Timestamp": "2017-01-21T00:00:00Z"
+    },
+    {
+        "ID": 13449655,
+        "Title": "Hellogopher – Just “git clone” and “make” any Go project",
+        "URL": "https://github.com/cloudflare/hellogopher/blob/master/README.md",
+        "Points": 135,
+        "Comments": 53,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13449655",
+        "Submitter": "FiloSottile",
+        "Timestamp": "2017-01-21T00:00:00Z"
+    },
+    {
+        "ID": 13449728,
+        "Title": "Jocko – Kafka implemented in Golang",
+        "URL": "https://github.com/travisjeffery/jocko",
+        "Points": 108,
+        "Comments": 49,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13449728",
+        "Submitter": "cube2222",
+        "Timestamp": "2017-01-21T00:00:00Z"
+    },
+    {
+        "ID": 13450554,
+        "Title": "Show HN: GitHub trending alternative that ranks repos by contribution rate",
+        "URL": "http://www.krihelinator.xyz/",
+        "Points": 142,
+        "Comments": 35,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13450554",
+        "Submitter": "nagasaki45",
+        "Timestamp": "2017-01-21T00:00:00Z"
+    },
+    {
+        "ID": 13449820,
+        "Title": "Stanford Natural Language Parser",
+        "URL": "http://nlp.stanford.edu:8080/parser/index.jsp",
+        "Points": 142,
+        "Comments": 65,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13449820",
+        "Submitter": "aphextron",
+        "Timestamp": "2017-01-21T00:00:00Z"
+    },
+    {
+        "ID": 13451268,
+        "Title": "You Can Change Your Personality",
+        "URL": "http://nymag.com/scienceofus/2017/01/how-to-change-your-personality.html",
+        "Points": 215,
+        "Comments": 93,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13451268",
+        "Submitter": "wallflower",
+        "Timestamp": "2017-01-21T00:00:00Z"
+    },
+    {
+        "ID": 13446521,
+        "Title": "Languages on BEAM, the Erlang virtual machine",
+        "URL": "https://github.com/llaisdy/beam_languages",
+        "Points": 225,
+        "Comments": 153,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13446521",
+        "Submitter": "nkurz",
+        "Timestamp": "2017-01-20T00:00:00Z"
+    },
+    {
+        "ID": 13437182,
+        "Title": "How Do I Declare a Function Pointer in C?",
+        "URL": "http://fuckingfunctionpointers.com",
+        "Points": 291,
+        "Comments": 106,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13437182",
+        "Submitter": "jerryr",
+        "Timestamp": "2017-01-19T00:00:00Z"
+    },
+    {
+        "ID": 13420457,
+        "Title": "A distributed and coordination-free log management system",
+        "URL": "https://github.com/oklog/oklog",
+        "Points": 100,
+        "Comments": 25,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13420457",
+        "Submitter": "avitzurel",
+        "Timestamp": "2017-01-17T00:00:00Z"
+    },
+    {
+        "ID": 13406119,
+        "Title": "Naughty Strings: A list of strings likely to cause issues as user-input data",
+        "URL": "https://github.com/minimaxir/big-list-of-naughty-strings",
+        "Points": 937,
+        "Comments": 144,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13406119",
+        "Submitter": "caseysoftware",
+        "Timestamp": "2017-01-15T00:00:00Z"
+    },
+    {
+        "ID": 13404840,
+        "Title": "Amazon’s Glacier secret: BDXL (2014)",
+        "URL": "https://storagemojo.com/2014/04/25/amazons-glacier-secret-bdxl/",
+        "Points": 213,
+        "Comments": 71,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13404840",
+        "Submitter": "another",
+        "Timestamp": "2017-01-15T00:00:00Z"
+    },
+    {
+        "ID": 13400350,
+        "Title": "Mastering Bash and Terminal",
+        "URL": "https://www.blockloop.io/mastering-bash-and-terminal",
+        "Points": 638,
+        "Comments": 180,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13400350",
+        "Submitter": "blockloop",
+        "Timestamp": "2017-01-14T00:00:00Z"
+    },
+    {
+        "ID": 13398306,
+        "Title": "Generating Icons with Pixel Sorting",
+        "URL": "http://theorangeduck.com/page/generating-icons-pixel-sorting",
+        "Points": 72,
+        "Comments": 5,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13398306",
+        "Submitter": "orangeduck",
+        "Timestamp": "2017-01-14T00:00:00Z"
+    },
+    {
+        "ID": 13374462,
+        "Title": "How We Found All of Optimizely's Clients",
+        "URL": "http://nerdydatablog.com/2016/12/04/how-we-found-all-of-optimizleys-clients/",
+        "Points": 204,
+        "Comments": 45,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13374462",
+        "Submitter": "rexbee",
+        "Timestamp": "2017-01-11T00:00:00Z"
+    },
+    {
+        "ID": 13353152,
+        "Title": "Tail Recursion Elimination",
+        "URL": "http://neopythonic.blogspot.com/2009/04/tail-recursion-elimination.html",
+        "Points": 4,
+        "Comments": -1,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13353152",
+        "Submitter": "tosh",
+        "Timestamp": "2017-01-09T00:00:00Z"
+    },
+    {
+        "ID": 13326535,
+        "Title": "Ask HN: Successful one-person online businesses?",
+        "URL": "item?id=13326535",
+        "Points": 800,
+        "Comments": 630,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13326535",
+        "Submitter": "mdoliwa",
+        "Timestamp": "2017-01-05T00:00:00Z"
+    },
+    {
+        "ID": 13337444,
+        "Title": "IINA – A modern video player for macOS",
+        "URL": "https://lhc70000.github.io/iina/",
+        "Points": 99,
+        "Comments": 26,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13337444",
+        "Submitter": "daaash",
+        "Timestamp": "2017-01-06T00:00:00Z"
+    },
+    {
+        "ID": 13331284,
+        "Title": "Goroutines, Nonblocking I/O, and Memory Usage",
+        "URL": "https://eklitzke.org/goroutines-nonblocking-io-and-memory-usage",
+        "Points": 182,
+        "Comments": 77,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13331284",
+        "Submitter": "eklitzke",
+        "Timestamp": "2017-01-05T00:00:00Z"
+    },
+    {
+        "ID": 13319678,
+        "Title": "SeaweedFS – A simple and highly scalable distributed file system",
+        "URL": "https://github.com/chrislusf/seaweedfs",
+        "Points": 119,
+        "Comments": 50,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13319678",
+        "Submitter": "daenney",
+        "Timestamp": "2017-01-04T00:00:00Z"
+    },
+    {
+        "ID": 13319904,
+        "Title": "Grumpy: Go running Python",
+        "URL": "https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html",
+        "Points": 1411,
+        "Comments": 451,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13319904",
+        "Submitter": "trotterdylan",
+        "Timestamp": "2017-01-04T00:00:00Z"
+    },
+    {
+        "ID": 13300023,
+        "Title": "Ask HN: Excluding WordPress, what is your favorite for blogs or small stores?",
+        "URL": "item?id=13300023",
+        "Points": 339,
+        "Comments": 193,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13300023",
+        "Submitter": "travisby",
+        "Timestamp": "2017-01-02T00:00:00Z"
+    },
+    {
+        "ID": 13299479,
+        "Title": "Three.js editor",
+        "URL": "https://threejs.org/editor/",
+        "Points": 362,
+        "Comments": 53,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13299479",
+        "Submitter": "danboarder",
+        "Timestamp": "2017-01-02T00:00:00Z"
+    },
+    {
+        "ID": 13295530,
+        "Title": "Shell scripts to improve your writing",
+        "URL": "http://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/",
+        "Points": 219,
+        "Comments": 55,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13295530",
+        "Submitter": "jaybosamiya",
+        "Timestamp": "2017-01-01T00:00:00Z"
+    },
+    {
+        "ID": 13294375,
+        "Title": "Show HN: Shadowsocks-rust – A fast SOCKSv5 proxy in Rust",
+        "URL": "https://github.com/loggerhead/shadowsocks-rust",
+        "Points": 68,
+        "Comments": 6,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13294375",
+        "Submitter": "loggerhead",
+        "Timestamp": "2017-01-01T00:00:00Z"
+    },
+    {
+        "ID": 13293894,
+        "Title": "Show HN: Blink my keyboard lights when you visit this page",
+        "URL": "http://lelandbatey.com/posts/2016/12/Making-lights-blink-for-each-HTTP-request/",
+        "Points": 87,
+        "Comments": 22,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13293894",
+        "Submitter": "lelandbatey",
+        "Timestamp": "2017-01-01T00:00:00Z"
+    },
+    {
+        "ID": 13294318,
+        "Title": "Top algorithms in interview questions",
+        "URL": "http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/",
+        "Points": 385,
+        "Comments": 69,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13294318",
+        "Submitter": "g2183889",
+        "Timestamp": "2017-01-01T00:00:00Z"
+    },
+    {
+        "ID": 13286942,
+        "Title": "Anti Patterns Catalog",
+        "URL": "http://wiki.c2.com/?AntiPatternsCatalog",
+        "Points": 120,
+        "Comments": 54,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13286942",
+        "Submitter": "infogulch",
+        "Timestamp": "2016-12-30T00:00:00Z"
+    },
+    {
+        "ID": 13258826,
+        "Title": "Hyperpolyglot",
+        "URL": "http://hyperpolyglot.org",
+        "Points": 249,
+        "Comments": 45,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13258826",
+        "Submitter": "tosh",
+        "Timestamp": "2016-12-26T00:00:00Z"
+    },
+    {
+        "ID": 13272112,
+        "Title": "Insecam: Large Directory of Unsecure Cameras",
+        "URL": "http://www.insecam.org",
+        "Points": 168,
+        "Comments": 59,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13272112",
+        "Submitter": "djsumdog",
+        "Timestamp": "2016-12-28T00:00:00Z"
+    },
+    {
+        "ID": 13271220,
+        "Title": "Systems Past: software innovations we actually use (2014)",
+        "URL": "http://davidad.github.io/blog/2014/03/12/the-operating-system-is-out-of-date/",
+        "Points": 148,
+        "Comments": 110,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13271220",
+        "Submitter": "ingve",
+        "Timestamp": "2016-12-28T00:00:00Z"
+    },
+    {
+        "ID": 13263038,
+        "Title": "Finger Trees: A Simple General-Purpose Data Structure (2006)",
+        "URL": "http://www.staff.city.ac.uk/~ross/papers/FingerTree.html",
+        "Points": 267,
+        "Comments": 75,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13263038",
+        "Submitter": "tosh",
+        "Timestamp": "2016-12-27T00:00:00Z"
+    },
+    {
+        "ID": 13259449,
+        "Title": "RavenDB 4.0 Indexing Benchmark",
+        "URL": "https://ayende.com/blog/176417/ravendb-4-0-indexing-benchmark",
+        "Points": 44,
+        "Comments": 8,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13259449",
+        "Submitter": "redknight666",
+        "Timestamp": "2016-12-26T00:00:00Z"
+    },
+    {
+        "ID": 13251889,
+        "Title": "QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs (2000) [pdf]",
+        "URL": "http://www.cs.tufts.edu/~nr/cs257/archive/john-hughes/quick.pdf",
+        "Points": 123,
+        "Comments": 38,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13251889",
+        "Submitter": "tosh",
+        "Timestamp": "2016-12-24T00:00:00Z"
+    },
+    {
+        "ID": 13203025,
+        "Title": "Citus' Replication Model: Today and Tomorrow",
+        "URL": "https://www.citusdata.com/blog/2016/12/15/citus-replication-model-today-and-tomorrow/",
+        "Points": 47,
+        "Comments": 9,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13203025",
+        "Submitter": "aamederen",
+        "Timestamp": "2016-12-17T00:00:00Z"
+    },
+    {
+        "ID": 13234770,
+        "Title": "Top Python libraries of 2016",
+        "URL": "https://tryolabs.com/blog/2016/12/20/top-10-python-libraries-of-2016/",
+        "Points": 321,
+        "Comments": 40,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13234770",
+        "Submitter": "jonbaer",
+        "Timestamp": "2016-12-22T00:00:00Z"
+    },
+    {
+        "ID": 13231951,
+        "Title": "Stack on a Budget – A collection of services with great free tiers",
+        "URL": "https://github.com/255kb/stack-on-a-budget",
+        "Points": 156,
+        "Comments": 26,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13231951",
+        "Submitter": "rosstex",
+        "Timestamp": "2016-12-21T00:00:00Z"
+    },
+    {
+        "ID": 13226341,
+        "Title": "What's wrong with 2006 programming? (2010)",
+        "URL": "http://oldblog.antirez.com/post/what-is-wrong-with-2006-programming.html",
+        "Points": 123,
+        "Comments": 52,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13226341",
+        "Submitter": "baotiao",
+        "Timestamp": "2016-12-21T00:00:00Z"
+    },
+    {
+        "ID": 13211132,
+        "Title": "Show HN: Subreddit classifier using scikit-learn and a high-performance Go proxy",
+        "URL": "http://ioloop.io/blog/hoverpy-scikitlearn/",
+        "Points": 170,
+        "Comments": 17,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13211132",
+        "Submitter": "ioloop",
+        "Timestamp": "2016-12-19T00:00:00Z"
+    },
+    {
+        "ID": 13209575,
+        "Title": "The Crystal Programming Language",
+        "URL": "https://github.com/crystal-lang/crystal",
+        "Points": 306,
+        "Comments": 193,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13209575",
+        "Submitter": "sndean",
+        "Timestamp": "2016-12-19T00:00:00Z"
+    },
+    {
+        "ID": 13208271,
+        "Title": "Consus: Fast Geo-Replicated Transactions",
+        "URL": "http://hack.systems/2016/12/13/hello-consus",
+        "Points": 108,
+        "Comments": 22,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13208271",
+        "Submitter": "deepanchor",
+        "Timestamp": "2016-12-18T00:00:00Z"
+    },
+    {
+        "ID": 13200890,
+        "Title": "Chinese smiths forge a large flange on the street [video]",
+        "URL": "https://m.youtube.com/watch?feature=youtu.be\u0026v=sXmKHGqfFlc",
+        "Points": 200,
+        "Comments": 82,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13200890",
+        "Submitter": "shawndumas",
+        "Timestamp": "2016-12-17T00:00:00Z"
+    },
+    {
+        "ID": 13157497,
+        "Title": "VimWiki – A personal wiki for Vim",
+        "URL": "http://vimwiki.github.io/",
+        "Points": 515,
+        "Comments": 120,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13157497",
+        "Submitter": "type0",
+        "Timestamp": "2016-12-12T00:00:00Z"
+    },
+    {
+        "ID": 13153031,
+        "Title": "Proposed server purchase for GitLab.com",
+        "URL": "https://about.gitlab.com/2016/12/11/proposed-server-purchase-for-gitlab-com/",
+        "Points": 356,
+        "Comments": 320,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13153031",
+        "Submitter": "jfreax",
+        "Timestamp": "2016-12-11T00:00:00Z"
+    },
+    {
+        "ID": 13149635,
+        "Title": "Learning Advanced JavaScript (2008)",
+        "URL": "http://ejohn.org/apps/learn/",
+        "Points": 192,
+        "Comments": 55,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13149635",
+        "Submitter": "kparaju",
+        "Timestamp": "2016-12-11T00:00:00Z"
+    },
+    {
+        "ID": 13097121,
+        "Title": "Computer Vision in 1982 Using Altair Computers and a Cromemco Cyclops Camera",
+        "URL": "https://www.youtube.com/watch?v=2y5oVHNfbf8",
+        "Points": 86,
+        "Comments": 15,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13097121",
+        "Submitter": "Flyguy_",
+        "Timestamp": "2016-12-03T00:00:00Z"
+    },
+    {
+        "ID": 13093129,
+        "Title": "Amazon States Language – A JSON-based language to describe state machines",
+        "URL": "https://states-language.net/spec.html",
+        "Points": 290,
+        "Comments": 97,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13093129",
+        "Submitter": "another",
+        "Timestamp": "2016-12-02T00:00:00Z"
+    },
+    {
+        "ID": 13060398,
+        "Title": "Tips for Success in Undergraduate Math Courses (2002)",
+        "URL": "https://web.stanford.edu/class/math53/jasp.html",
+        "Points": 190,
+        "Comments": 69,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13060398",
+        "Submitter": "isolier",
+        "Timestamp": "2016-11-29T00:00:00Z"
+    },
+    {
+        "ID": 13056997,
+        "Title": "Neutralize ME Firmware on SandyBridge and IvyBridge Platforms",
+        "URL": "http://hardenedlinux.org/firmware/2016/11/17/neutralize_ME_firmware_on_sandybridge_and_ivybridge.html",
+        "Points": 337,
+        "Comments": 75,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13056997",
+        "Submitter": "madars",
+        "Timestamp": "2016-11-28T00:00:00Z"
+    },
+    {
+        "ID": 13033067,
+        "Title": "A Moneymaking Machine Like Few Others",
+        "URL": "https://www.bloomberg.com/news/articles/2016-11-21/how-renaissance-s-medallion-fund-became-finance-s-blackest-box?cmpid%253D=socialflow-twitter-hedgebrief",
+        "Points": 258,
+        "Comments": 205,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13033067",
+        "Submitter": "volodia",
+        "Timestamp": "2016-11-24T00:00:00Z"
+    },
+    {
+        "ID": 13033243,
+        "Title": "Cassandra is not row level consistent",
+        "URL": "http://datanerds.io/post/cassandra-no-row-consistency/",
+        "Points": 274,
+        "Comments": 121,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13033243",
+        "Submitter": "leastangle",
+        "Timestamp": "2016-11-24T00:00:00Z"
+    },
+    {
+        "ID": 13013327,
+        "Title": "Show HN: Spamnesty: Waste spammers' time",
+        "URL": "https://www.stavros.io/posts/spamnesty-waste-spammers-time/",
+        "Points": 405,
+        "Comments": 183,
+        "CommentsURL": "https://news.ycombinator.com/item?id=13013327",
+        "Submitter": "StavrosK",
+        "Timestamp": "2016-11-22T00:00:00Z"
+    },
+    {
+        "ID": 12995244,
+        "Title": "Beginning Woodworking",
+        "URL": "http://woodgears.ca/beginner/",
+        "Points": 259,
+        "Comments": 88,
+        "CommentsURL": "https://news.ycombinator.com/item?id=12995244",
+        "Submitter": "Tomte",
+        "Timestamp": "2016-11-19T00:00:00Z"
+    },
+    {
+        "ID": 12999767,
+        "Title": "New for AWS Lambda – Environment Variables and Serverless Application Model",
+        "URL": "https://aws.amazon.com/blogs/aws/new-for-aws-lambda-environment-variables-and-serverless-application-model/",
+        "Points": 264,
+        "Comments": 83,
+        "CommentsURL": "https://news.ycombinator.com/item?id=12999767",
+        "Submitter": "luhn",
+        "Timestamp": "2016-11-20T00:00:00Z"
+    },
+    {
+        "ID": 12976168,
+        "Title": "Zfec – Efficient, portable erasure coding tool",
+        "URL": "https://github.com/tahoe-lafs/zfec",
+        "Points": 91,
+        "Comments": 36,
+        "CommentsURL": "https://news.ycombinator.com/item?id=12976168",
+        "Submitter": "Tomte",
+        "Timestamp": "2016-11-17T00:00:00Z"
+    },
+    {
+        "ID": 12964851,
+        "Title": "Clarity Design System for Angular 2",
+        "URL": "https://vmware.github.io/clarity/index.html",
+        "Points": 99,
+        "Comments": 49,
+        "CommentsURL": "https://news.ycombinator.com/item?id=12964851",
+        "Submitter": "qHydra",
+        "Timestamp": "2016-11-16T00:00:00Z"
+    },
+    {
+        "ID": 12964354,
+        "Title": "Compulab Airtop – Natural Airflow Desktop",
+        "URL": "https://airtop-pc.com/",
+        "Points": 200,
+        "Comments": 150,
+        "CommentsURL": "https://news.ycombinator.com/item?id=12964354",
+        "Submitter": "icefox",
+        "Timestamp": "2016-11-16T00:00:00Z"
+    },
+    {
+        "ID": 12661227,
+        "Title": "IP Spoofing",
+        "URL": "https://idea.popcount.org/2016-09-20-strange-loop---ip-spoofing/",
+        "Points": 513,
+        "Comments": 132,
+        "CommentsURL": "https://news.ycombinator.com/item?id=12661227",
+        "Submitter": "majke",
+        "Timestamp": "2016-10-07T00:00:00Z"
+    },
+    {
+        "ID": 12673051,
+        "Title": "The path of software development craftsmanship",
+        "URL": "https://rainsoft.io/the-path-of-software-development-craftsmanship/",
+        "Points": 113,
+        "Comments": 49,
+        "CommentsURL": "https://news.ycombinator.com/item?id=12673051",
+        "Submitter": "devnonymous",
+        "Timestamp": "2016-10-09T00:00:00Z"
+    },
+    {
+        "ID": 12928001,
+        "Title": "Address to the American Psychological Association on Men (2007)",
+        "URL": "http://www.denisdutton.com/baumeister.htm",
+        "Points": 181,
+        "Comments": 81,
+        "CommentsURL": "https://news.ycombinator.com/item?id=12928001",
+        "Submitter": "JumpCrisscross",
+        "Timestamp": "2016-11-11T00:00:00Z"
+    },
+    {
+        "ID": 12915904,
+        "Title": "Dijkstra's Algorithm",
+        "URL": "http://blog.cleancoder.com/uncle-bob/2016/10/26/DijkstrasAlg.html",
+        "Points": 119,
+        "Comments": 18,
+        "CommentsURL": "https://news.ycombinator.com/item?id=12915904",
+        "Submitter": "hn-user",
+        "Timestamp": "2016-11-09T00:00:00Z"
+    },
+    {
+        "ID": 12916498,
+        "Title": "Ask HN: How Can I Get into NLP (Natural Language Processing)?",
+        "URL": "item?id=12916498",
+        "Points": 297,
+        "Comments": 43,
+        "CommentsURL": "https://news.ycombinator.com/item?id=12916498",
+        "Submitter": "aarohmankad",
+        "Timestamp": "2016-11-10T00:00:00Z"
+    },
+    {
+        "ID": 12915809,
+        "Title": "A Method I’ve Used to Eliminate Bad Tech Hires",
+        "URL": "https://mattermark.com/the-one-method-ive-used-to-eliminate-bad-tech-hires/",
+        "Points": 1214,
+        "Comments": 499,
+        "CommentsURL": "https://news.ycombinator.com/item?id=12915809",
+        "Submitter": "nickfrost",
+        "Timestamp": "2016-11-09T00:00:00Z"
+    },
+    {
+        "ID": 12882816,
+        "Title": "Ask HN: Overwhelmed with learning front-end, how do I proceed?",
+        "URL": "item?id=12882816",
+        "Points": 255,
+        "Comments": 132,
+        "CommentsURL": "https://news.ycombinator.com/item?id=12882816",
+        "Submitter": "PythonicPro",
+        "Timestamp": "2016-11-06T00:00:00Z"
+    },
+    {
+        "ID": 12882837,
+        "Title": "Tensorflow and Deep Learning, Without a PhD, Martin Gorner, Google [video]",
+        "URL": "https://www.youtube.com/watch?v=sEciSlAClL8",
+        "Points": 218,
+        "Comments": 33,
+        "CommentsURL": "https://news.ycombinator.com/item?id=12882837",
+        "Submitter": "ayanray",
+        "Timestamp": "2016-11-06T00:00:00Z"
+    },
+    {
+        "ID": 12854895,
+        "Title": "Darling – MacOS translation layer for Linux",
+        "URL": "https://www.darlinghq.org/",
+        "Points": 630,
+        "Comments": 265,
+        "CommentsURL": "https://news.ycombinator.com/item?id=12854895",
+        "Submitter": "mikemoka",
+        "Timestamp": "2016-11-02T00:00:00Z"
+    },
+    {
+        "ID": 12805892,
+        "Title": "Angela Merkel: internet search engines are 'distorting perception'",
+        "URL": "https://www.theguardian.com/world/2016/oct/27/angela-merkel-internet-search-engines-are-distorting-our-perception",
+        "Points": 116,
+        "Comments": 162,
+        "CommentsURL": "https://news.ycombinator.com/item?id=12805892",
+        "Submitter": "azuajef",
+        "Timestamp": "2016-10-27T00:00:00Z"
+    },
+    {
+        "ID": 12824050,
+        "Title": "GraphicsMagick Image Processing System",
+        "URL": "http://www.graphicsmagick.org/index.html",
+        "Points": 183,
+        "Comments": 46,
+        "CommentsURL": "https://news.ycombinator.com/item?id=12824050",
+        "Submitter": "based2",
+        "Timestamp": "2016-10-29T00:00:00Z"
+    },
+    {
+        "ID": 12838152,
+        "Title": "Show HN: Fast Style Transfer in TensorFlow",
+        "URL": "https://github.com/lengstrom/fast-style-transfer/",
+        "Points": 184,
+        "Comments": 20,
+        "CommentsURL": "https://news.ycombinator.com/item?id=12838152",
+        "Submitter": "logane",
+        "Timestamp": "2016-10-31T00:00:00Z"
+    },
+    {
+        "ID": 12833228,
+        "Title": "Tsfresh – Automatic extraction of relevant features from time series",
+        "URL": "https://github.com/blue-yonder/tsfresh",
+        "Points": 167,
+        "Comments": 8,
+        "CommentsURL": "https://news.ycombinator.com/item?id=12833228",
+        "Submitter": "restapi",
+        "Timestamp": "2016-10-30T00:00:00Z"
+    },
+    {
+        "ID": 12833481,
+        "Title": "CTO Mentor Network – A virtual peer-to-peer network of CTOs",
+        "URL": "https://ctomentor.network/",
+        "Points": 252,
+        "Comments": 39,
+        "CommentsURL": "https://news.ycombinator.com/item?id=12833481",
+        "Submitter": "jetsnoc",
+        "Timestamp": "2016-10-31T00:00:00Z"
+    },
+    {
+        "ID": 12832939,
+        "Title": "Vlany – Linux LD_PRELOAD rootkit",
+        "URL": "https://github.com/mempodippy/vlany",
+        "Points": 52,
+        "Comments": 5,
+        "CommentsURL": "https://news.ycombinator.com/item?id=12832939",
+        "Submitter": "necessity",
+        "Timestamp": "2016-10-30T00:00:00Z"
+    },
+    {
+        "ID": 12814578,
+        "Title": "Show HN: Bashcached – memcached built on bash and ncat",
+        "URL": "https://github.com/MakeNowJust/bashcached",
+        "Points": 84,
+        "Comments": 15,
+        "CommentsURL": "https://news.ycombinator.com/item?id=12814578",
+        "Submitter": "make_now_just",
+        "Timestamp": "2016-10-28T00:00:00Z"
+    },
+    {
+        "ID": 12800298,
+        "Title": "Augeas – A Configuration API",
+        "URL": "http://augeas.net/",
+        "Points": 94,
+        "Comments": 15,
+        "CommentsURL": "https://news.ycombinator.com/item?id=12800298",
+        "Submitter": "nikolay",
+        "Timestamp": "2016-10-26T00:00:00Z"
+    },
+    {
+        "ID": 12780038,
+        "Title": "Building your bot's brain with Node.js and spaCy",
+        "URL": "https://explosion.ai/blog/chatbot-node-js-spacy",
+        "Points": 108,
+        "Comments": 4,
+        "CommentsURL": "https://news.ycombinator.com/item?id=12780038",
+        "Submitter": "syllogism",
+        "Timestamp": "2016-10-24T00:00:00Z"
+    },
+    {
+        "ID": 12765022,
+        "Title": "Nightmare Machine – Horror imagery generated by deep learning",
+        "URL": "http://nightmare.mit.edu/",
+        "Points": 150,
+        "Comments": 31,
+        "CommentsURL": "https://news.ycombinator.com/item?id=12765022",
+        "Submitter": "necrodome",
+        "Timestamp": "2016-10-21T00:00:00Z"
+    },
+    {
+        "ID": 12716254,
+        "Title": "Noms – A versioned, forkable, syncable database",
+        "URL": "https://github.com/attic-labs/noms.git",
+        "Points": 399,
+        "Comments": 97,
+        "CommentsURL": "https://news.ycombinator.com/item?id=12716254",
+        "Submitter": "jaytaylor",
+        "Timestamp": "2016-10-16T00:00:00Z"
+    },
+    {
+        "ID": 12697009,
+        "Title": "It's time to reconsider going on-prem",
+        "URL": "http://gravitational.com/blog/time-to-reconsider-going-onprem/",
+        "Points": 248,
+        "Comments": 109,
+        "CommentsURL": "https://news.ycombinator.com/item?id=12697009",
+        "Submitter": "twakefield",
+        "Timestamp": "2016-10-12T00:00:00Z"
+    },
+    {
+        "ID": 12633340,
+        "Title": "Pytextrank – A pure Python implementation of TextRank",
+        "URL": "https://github.com/ceteri/pytextrank",
+        "Points": 79,
+        "Comments": 17,
+        "CommentsURL": "https://news.ycombinator.com/item?id=12633340",
+        "Submitter": "rch",
+        "Timestamp": "2016-10-04T00:00:00Z"
+    },
+    {
+        "ID": 12634590,
+        "Title": "I'm choosing euthanasia etd 1pm. I have no last words.",
+        "URL": "https://twitter.com/hintjens/status/783254242052206592",
+        "Points": 1361,
+        "Comments": 277,
+        "CommentsURL": "https://news.ycombinator.com/item?id=12634590",
+        "Submitter": "alpeb",
+        "Timestamp": "2016-10-04T00:00:00Z"
+    },
+    {
+        "ID": 12620697,
+        "Title": "The Berkeley Document Summarizer: Learning-Based, Single-Document Summarization",
+        "URL": "https://github.com/gregdurrett/berkeley-doc-summarizer",
+        "Points": 195,
+        "Comments": 32,
+        "CommentsURL": "https://news.ycombinator.com/item?id=12620697",
+        "Submitter": "fitzwatermellow",
+        "Timestamp": "2016-10-02T00:00:00Z"
+    },
+    {
+        "ID": 12612246,
+        "Title": "Show HN: Wave function collapse algorithm",
+        "URL": "https://github.com/mxgmn/WaveFunctionCollapse",
+        "Points": 1226,
+        "Comments": 122,
+        "CommentsURL": "https://news.ycombinator.com/item?id=12612246",
+        "Submitter": "ExUtumno",
+        "Timestamp": "0001-01-01T00:00:00Z"
+    },
+    {
+        "ID": 11767868,
+        "Title": "Problems (and solutions) for adding key compression to Btrees",
+        "URL": "https://upscaledb.com/0013-32bit-integer-compression-algorithms-part3.html",
+        "Points": 1,
+        "Comments": -1,
+        "CommentsURL": "https://news.ycombinator.com/item?id=11767868",
+        "Submitter": "cruppstahl",
+        "Timestamp": "2016-05-25T00:00:00Z"
+    },
+    {
+        "ID": 12496558,
+        "Title": "Ask HN: What's your favorite HN post?",
+        "URL": "item?id=12496558",
+        "Points": 692,
+        "Comments": 137,
+        "CommentsURL": "https://news.ycombinator.com/item?id=12496558",
+        "Submitter": "rkhraishi",
+        "Timestamp": "0001-01-01T00:00:00Z"
+    },
+    {
+        "ID": 12503337,
+        "Title": "The modern nomad",
+        "URL": "http://imgur.com/gallery/CnT2W",
+        "Points": 25,
+        "Comments": 2,
+        "CommentsURL": "https://news.ycombinator.com/item?id=12503337",
+        "Submitter": "billconan",
+        "Timestamp": "0001-01-01T00:00:00Z"
+    },
+    {
+        "ID": 12501774,
+        "Title": "Show HN: Using Parsing Expression Grammars to rewrite source code",
+        "URL": "https://github.com/sebcat/move-literals",
+        "Points": 63,
+        "Comments": 26,
+        "CommentsURL": "https://news.ycombinator.com/item?id=12501774",
+        "Submitter": "sebcat",
+        "Timestamp": "0001-01-01T00:00:00Z"
+    },
+    {
+        "ID": 12479977,
+        "Title": "Falcon – a Chrome extension for full text browsing history search",
+        "URL": "https://github.com/lengstrom/falcon-js",
+        "Points": 178,
+        "Comments": 52,
+        "CommentsURL": "https://news.ycombinator.com/item?id=12479977",
+        "Submitter": "anishathalye",
+        "Timestamp": "0001-01-01T00:00:00Z"
+    },
+    {
+        "ID": 12371975,
+        "Title": "IM2CAD – Reconstruct a scene that is as similar as possible to a photograph",
+        "URL": "https://arxiv.org/abs/1608.05137",
+        "Points": 86,
+        "Comments": 6,
+        "CommentsURL": "https://news.ycombinator.com/item?id=12371975",
+        "Submitter": "EvgeniyZh",
+        "Timestamp": "2016-08-27T00:00:00Z"
+    },
+    {
+        "ID": 12369038,
+        "Title": "Epsilon Programmer's Editor",
+        "URL": "http://www.lugaru.com/",
+        "Points": 82,
+        "Comments": 78,
+        "CommentsURL": "https://news.ycombinator.com/item?id=12369038",
+        "Submitter": "valera_rozuvan",
+        "Timestamp": "2016-08-26T00:00:00Z"
+    },
+    {
+        "ID": 12326914,
+        "Title": "Playing with Syntax",
+        "URL": "http://stevelosh.com/blog/2016/08/playing-with-syntax/",
+        "Points": 144,
+        "Comments": 93,
+        "CommentsURL": "https://news.ycombinator.com/item?id=12326914",
+        "Submitter": "jsnell",
+        "Timestamp": "2016-08-20T00:00:00Z"
+    },
+    {
+        "ID": 12311930,
+        "Title": "Show HN: A Web Extension to save a page or selection as eBook",
+        "URL": "https://github.com/alexadam/save-as-ebook",
+        "Points": 106,
+        "Comments": 25,
+        "CommentsURL": "https://news.ycombinator.com/item?id=12311930",
+        "Submitter": "eg312",
+        "Timestamp": "2016-08-18T00:00:00Z"
+    },
+    {
+        "ID": 12237998,
+        "Title": "From Linear Models to Machine Learning (draft) [pdf]",
+        "URL": "http://heather.cs.ucdavis.edu/draftregclass.pdf",
+        "Points": 151,
+        "Comments": 23,
+        "CommentsURL": "https://news.ycombinator.com/item?id=12237998",
+        "Submitter": "sonabinu",
+        "Timestamp": "2016-08-06T00:00:00Z"
+    }
+]

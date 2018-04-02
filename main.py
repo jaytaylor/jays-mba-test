@@ -17,13 +17,14 @@ def extract_currency_relations(nlp, text):
     doc = nlp(text)
     ents0 = list(doc.ents)
 
+    '''
     toks = []
 
     for tok in doc:
         print('%s %s | %s' % (tok.i, tok, tok.text.encode('ascii', 'ignore')))
         toks.append(tok)
-#        if tok.i > 100:
-#            print(dir(tok))
+        if tok.i == 1:
+            print(dir(tok))
 #            break
 
     # notice these 2 lines - if they're not here, standard NER
@@ -43,6 +44,7 @@ def extract_currency_relations(nlp, text):
     for key in entity_scores:
         start, end, label = key
         print('%d to %d: %s (%f) | %s' % (start, end - 1, label, entity_scores[key], toks[start].text))
+    '''
 
 
     return ents0
@@ -64,11 +66,18 @@ def extract_currency_relations(nlp, text):
 
 def process_and_clean_named_entities(ents):
     freq = {}
+    print(dir(ents[0]))
     for ent in ents:
-        ent = ent.text #.decode('ascii', 'ignore')
-        print('ent=%s v=%s' % (ent, freq.get(ent, None)))
-        freq[ent] = freq.get(ent, 0) + 1
-    final = collections.OrderedDict(sorted(freq.items(), key=lambda tup: tup[1], reverse=True))
+        if ent.label_ in (u'CARDINAL', u'ORDINAL', u'PERCENT', u'QUANTITY', u'DATE', u'MONEY'):
+            continue
+        # print('ent=%s v=%s' % (ent, freq.get(ent, None)))
+        if ent.text in freq:
+            freq[ent.text][1] += 1
+        else:
+            freq[ent.text] = [ent, 1, ent.label_]
+    final = list(
+        collections.OrderedDict(sorted(freq.items(), key=lambda tup: tup[1][1], reverse=True)).values()
+    )
     return final
 
 # @plac.annotations(model=('Model to load (needs parser and NER)', 'positional', None, str))
@@ -77,8 +86,8 @@ def main(args):
     #     sys.stderr.write('ERROR: Missing required parameter: [content-file]\n')
     #     os.exit(1)
 
-    #nlp = spacy.load('en_core_web_lg')
-    nlp = spacy.load('en_core_web_sm')
+    nlp = spacy.load('en_core_web_lg')
+    #nlp = spacy.load('en_core_web_sm')
 
     if len(args) < 2 or args[1] == '-':
         fh = sys.stdin
